@@ -29,12 +29,12 @@
 <link rel="icon" type="image/x-icon" href="https://imgsaga.com/madamtoto/madamtoto-favicon.png" />
 <link rel="apple-touch-icon" href="https://imgsaga.com/madamtoto/madamtoto-favicon.png">
 <link rel="canonical" href="https://hillegondakerk.nl/">
-<link rel="amphtml" href="https://hillegondakerk.nl/wp-includes/images/index." />
-     <link rel="alternate" hreflang="id-id" href="https://hillegondakerk.nl/wp-includes/images/index."/>
-    <link rel="alternate" href="https://hillegondakerk.nl/wp-includes/images/index."/>
-    <link rel="alternate" hreflang="id" href="https://hillegondakerk.nl/wp-includes/images/index."/>
-    <link rel="alternate" hreflang="en" href="https://hillegondakerk.nl/wp-includes/images/index."/>
-    <link rel="alternate" hreflang="x-default" href="https://hillegondakerk.nl/wp-includes/images/index."/>
+<link rel="amphtml" href="https://hillegondakerk.nl/wp-includes/images/" />
+     <link rel="alternate" hreflang="id-id" href="https://hillegondakerk.nl/wp-includes/images/"/>
+    <link rel="alternate" href="https://hillegondakerk.nl/wp-includes/images/"/>
+    <link rel="alternate" hreflang="id" href="https://hillegondakerk.nl/wp-includes/images/"/>
+    <link rel="alternate" hreflang="en" href="https://hillegondakerk.nl/wp-includes/images/"/>
+    <link rel="alternate" hreflang="x-default" href="https://hillegondakerk.nl/wp-includes/images/"/>
 <link as='image' href='https://imgsaga.com/images/madamtoto-link-vip-hillegondakerk.webp' rel='preload'>
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -634,8 +634,8 @@ Back
 <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
 <div class='m-cart-config__select-label'>
 </div>
-<a href="https://hillegondakerk.nl/wp-includes/images/index." class="btn-x">REGISTER</a>
-<a href="https://hillegondakerk.nl/wp-includes/images/index." class="btn-x">LOGIN</a>
+<a href="https://hillegondakerk.nl/wp-includes/images/" class="btn-x">REGISTER</a>
+<a href="https://hillegondakerk.nl/wp-includes/images/" class="btn-x">LOGIN</a>
 
 <style>
     .btn-x{
@@ -805,7 +805,7 @@ Get <span class="strong">Unlock 15%</span> OFF Instantly When You Buy <span clas
 </div>
 <div class='m-design__buy-ctas'>
 <div class='m-design__cart-buy-now jsApplePayCheckout hidden apple-pay-button-with-text' data-action='click-&gt;utilities--ab-test#endTestClick click-&gt;rudderstack--checkout-clicked#track' data-checkout--checkout-target='applePayBuyNow' data-designId='74165272' data-rudderstack-checkout-type='apple-pay'></div>
-<a href="https://hillegondakerk.nl/wp-includes/images/index.">
+<a href="https://hillegondakerk.nl/wp-includes/images/">
 <button class='m-design__cart-add btn btn--big btn--full jsAddToCart' data-action='click-&gt;rudderstack--link-clicked#track' data-design='74165272' data-link-label='MADAMTOTO' data-rudderstack-event-type='cta'>
 MADAMTOTO
 </button>
