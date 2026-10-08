@@ -54,7 +54,7 @@
     <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" 
 nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     <meta name="theme-color" content="#333333">
-    <link rel="canonical" href="https://marketingfuturetoday.com/">
+    <link rel="canonical" href="https://tryangle-and-co.com/">
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -68,10 +68,10 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
   },
   "sku": "TOTO",
   "mpn": "77GCR-001",
-  "url": "https://marketingfuturetoday.com/",
+  "url": "https://tryangle-and-co.com/",
   "offers": {
     "@type": "Offer",
-    "url": "https://marketingfuturetoday.com/",
+    "url": "https://tryangle-and-co.com/",
     "priceCurrency": "IDR",
     "price": "0.00",
     "priceValidUntil": "2025-10-21",
@@ -125,31 +125,31 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
       "@type": "ListItem",
       "position": 1,
       "name": "TOTO",
-      "item": "https://marketingfuturetoday.com/"
+      "item": "https://tryangle-and-co.com/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "SITUS TOGEL",
-      "item": "https://marketingfuturetoday.com/"
+      "item": "https://tryangle-and-co.com/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SITUS TOTO",
-      "item": "https://marketingfuturetoday.com/"
+      "item": "https://tryangle-and-co.com/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "TOTO",
-      "item": "https://marketingfuturetoday.com/"
+      "item": "https://tryangle-and-co.com/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "SITUS TERPERCAYA",
-      "item": "https://marketingfuturetoday.com/"
+      "item": "https://tryangle-and-co.com/"
     }
   ]
 }
@@ -160,7 +160,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "TOTO",
-  "url": "https://marketingfuturetoday.com/",
+  "url": "https://tryangle-and-co.com/",
   "logo": "https://imgsaga.com/images/MADAMTOTO_logo_rapi_transparan.webp",
   "sameAs": [
     "https://www.facebook.com/TOTO",
@@ -188,7 +188,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     <meta property="og:title" content="MADAMTOTO > Portal Resmi Situs Toto Online & Slot777 Layanan Aktif 24 Jam">
     <meta property="og:description" content="MADAMTOTO menghadirkan portal resmi Situs Toto Online dan Slot777 dengan informasi layanan terbaru 24 jam."><meta property="og:image" content="https://imgsaga.com/images/madamtoto-portal-slot777-resmi.webp" />
     <meta property="og:image:alt" content="MADAMTOTO > Portal Resmi Situs Toto Online & Slot777 Layanan Aktif 24 Jam" />
-    <meta property="og:url" content="https://marketingfuturetoday.com/">
+    <meta property="og:url" content="https://tryangle-and-co.com/">
     <meta property="og:type" content="website">
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -200,7 +200,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     <meta name="twitter:image:alt" content="MADAMTOTO > Portal Resmi Situs Toto Online & Slot777 Layanan Aktif 24 Jam" />
     <meta property="og:title" content="MADAMTOTO > Portal Resmi Situs Toto Online & Slot777 Layanan Aktif 24 Jam">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://marketingfuturetoday.com/">
+    <meta property="og:url" content="https://tryangle-and-co.com/">
     <meta property="og:image" content="https://imgsaga.com/images/madamtoto-portal-slot777-resmi.webp" />
     <meta property="og:image:alt" content="MADAMTOTO > Portal Resmi Situs Toto Online & Slot777 Layanan Aktif 24 Jam" />
     <meta property="og:description" content="MADAMTOTO menghadirkan portal resmi Situs Toto Online dan Slot777 dengan informasi layanan terbaru 24 jam.">
@@ -503,7 +503,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
             --color-border-tertiary: var(--color-yellow-700);
             --color-always-white: var(--color-white);
         }
-        /* source map removed */
+        
     </style>
     <style>
         .brand-neue-button {
@@ -530,7 +530,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
             vertical-align: sub;
             content: url("data:image/svg+xml,<svg width=\"14\" height=\"14\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"ico-/-24-/-actions-/-open_in_new\"><path id=\"Icon-color\" d=\"M17.5 12.0833V15.8333C17.5 16.7538 16.7538 17.5 15.8333 17.5H4.16667C3.24619 17.5 2.5 16.7538 2.5 15.8333V4.16667C2.5 3.24619 3.24619 2.5 4.16667 2.5H7.91667C8.14679 2.5 8.33333 2.68655 8.33333 2.91667V3.75C8.33333 3.98012 8.14679 4.16667 7.91667 4.16667H4.16667V15.8333H15.8333V12.0833C15.8333 11.8532 16.0199 11.6667 16.25 11.6667H17.0833C17.3135 11.6667 17.5 11.8532 17.5 12.0833ZM17.3167 2.91667L17.0917 2.69167C16.98 2.57535 16.8278 2.50668 16.6667 2.5H11.25C11.0199 2.5 10.8333 2.68655 10.8333 2.91667V3.75C10.8333 3.98012 11.0199 4.16667 11.25 4.16667H14.6583L7.625 11.2C7.54612 11.2782 7.50175 11.3847 7.50175 11.4958C7.50175 11.6069 7.54612 11.7134 7.625 11.7917L8.20833 12.375C8.28657 12.4539 8.39307 12.4982 8.50417 12.4982C8.61527 12.4982 8.72176 12.4539 8.8 12.375L15.8333 5.35V8.75C15.8333 8.98012 16.0199 9.16667 16.25 9.16667H17.0833C17.3135 9.16667 17.5 8.98012 17.5 8.75V3.33333C17.4955 3.17342 17.4299 3.02132 17.3167 2.90833V2.91667Z\" fill=\"%231A4200\"/></g></svg>");
         }
-        /* source map removed */
+        
     </style>
     <style type="text/css">
         .fancybox-margin {
@@ -827,7 +827,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
   --color-border-tertiary: var(--color-grey-700);
   --color-always-white: var(--color-white);
 }
-/* source map removed */</style><style>.brand-neue-button {
+</style><style>.brand-neue-button {
   gap: var(--spacing-2x);
   border-radius: var(--roundness-subtle);
   background: var(--color-interactive-primary);
@@ -848,7 +848,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
   vertical-align: sub;
   content: url("data:image/svg+xml,<svg width=\"14\" height=\"14\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"ico-/-24-/-actions-/-open_in_new\"><path id=\"Icon-color\" d=\"M17.5 12.0833V15.8333C17.5 16.7538 16.7538 17.5 15.8333 17.5H4.16667C3.24619 17.5 2.5 16.7538 2.5 15.8333V4.16667C2.5 3.24619 3.24619 2.5 4.16667 2.5H7.91667C8.14679 2.5 8.33333 2.68655 8.33333 2.91667V3.75C8.33333 3.98012 8.14679 4.16667 7.91667 4.16667H4.16667V15.8333H15.8333V12.0833C15.8333 11.8532 16.0199 11.6667 16.25 11.6667H17.0833C17.3135 11.6667 17.5 11.8532 17.5 12.0833ZM17.3167 2.91667L17.0917 2.69167C16.98 2.57535 16.8278 2.50668 16.6667 2.5H11.25C11.0199 2.5 10.8333 2.68655 10.8333 2.91667V3.75C10.8333 3.98012 11.0199 4.16667 11.25 4.16667H14.6583L7.625 11.2C7.54612 11.2782 7.50175 11.3847 7.50175 11.4958C7.50175 11.6069 7.54612 11.7134 7.625 11.7917L8.20833 12.375C8.28657 12.4539 8.39307 12.4982 8.50417 12.4982C8.61527 12.4982 8.72176 12.4539 8.8 12.375L15.8333 5.35V8.75C15.8333 8.98012 16.0199 9.16667 16.25 9.16667H17.0833C17.3135 9.16667 17.5 8.98012 17.5 8.75V3.33333C17.4955 3.17342 17.4299 3.02132 17.3167 2.90833V2.91667Z\" fill=\"%231A4200\"/></g></svg>");
 }
-/* source map removed */</style><style>:root {
+</style><style>:root {
   --color-grey-1000: #191919;
   --color-grey-1000-mask: rgb(25 25 25 / 0.7);
   --color-grey-700: #383838;
@@ -1129,7 +1129,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
   --color-border-tertiary: var(--color-grey-700);
   --color-always-white: var(--color-white);
 }
-/* source map removed */</style><style>.brand-neue-button {
+</style><style>.brand-neue-button {
   gap: var(--spacing-2x);
   border-radius: var(--roundness-subtle);
   background: var(--color-interactive-primary);
@@ -1150,19 +1150,19 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
   vertical-align: sub;
   content: url("data:image/svg+xml,<svg width=\"14\" height=\"14\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"ico-/-24-/-actions-/-open_in_new\"><path id=\"Icon-color\" d=\"M17.5 12.0833V15.8333C17.5 16.7538 16.7538 17.5 15.8333 17.5H4.16667C3.24619 17.5 2.5 16.7538 2.5 15.8333V4.16667C2.5 3.24619 3.24619 2.5 4.16667 2.5H7.91667C8.14679 2.5 8.33333 2.68655 8.33333 2.91667V3.75C8.33333 3.98012 8.14679 4.16667 7.91667 4.16667H4.16667V15.8333H15.8333V12.0833C15.8333 11.8532 16.0199 11.6667 16.25 11.6667H17.0833C17.3135 11.6667 17.5 11.8532 17.5 12.0833ZM17.3167 2.91667L17.0917 2.69167C16.98 2.57535 16.8278 2.50668 16.6667 2.5H11.25C11.0199 2.5 10.8333 2.68655 10.8333 2.91667V3.75C10.8333 3.98012 11.0199 4.16667 11.25 4.16667H14.6583L7.625 11.2C7.54612 11.2782 7.50175 11.3847 7.50175 11.4958C7.50175 11.6069 7.54612 11.7134 7.625 11.7917L8.20833 12.375C8.28657 12.4539 8.39307 12.4982 8.50417 12.4982C8.61527 12.4982 8.72176 12.4539 8.8 12.375L15.8333 5.35V8.75C15.8333 8.98012 16.0199 9.16667 16.25 9.16667H17.0833C17.3135 9.16667 17.5 8.98012 17.5 8.75V3.33333C17.4955 3.17342 17.4299 3.02132 17.3167 2.90833V2.91667Z\" fill=\"%231A4200\"/></g></svg>");
 }
-/* source map removed */</style></head>
+</style></head>
 
 <body class="color-scheme-light" data-view="app impressionTracker" data-responsive="true" data-user-signed-in="false" __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
 <div style="display:none" data-nosnippet="true">
-<a href="https://marketingfuturetoday.com/">TOTO</a>
-<a href="https://marketingfuturetoday.com/">SITUS TOGEL</a>
-<a href="https://marketingfuturetoday.com/">SITUS TOTO</a>
-<a href="https://marketingfuturetoday.com/">TOTO</a>
-<a href="https://marketingfuturetoday.com/">TOTO ONLINE</a>
-<a href="https://marketingfuturetoday.com/">SITUS TERPERCAYA</a>
-<a href="https://marketingfuturetoday.com/">TOTO TERPERCAYA</a>
-<a href="https://marketingfuturetoday.com/">SITUS TOTO TERPERCAYA</a>
-<a href="https://marketingfuturetoday.com/">SITUS TOTO ONLINE</a>
+<a href="https://tryangle-and-co.com/">TOTO</a>
+<a href="https://tryangle-and-co.com/">SITUS TOGEL</a>
+<a href="https://tryangle-and-co.com/">SITUS TOTO</a>
+<a href="https://tryangle-and-co.com/">TOTO</a>
+<a href="https://tryangle-and-co.com/">TOTO ONLINE</a>
+<a href="https://tryangle-and-co.com/">SITUS TERPERCAYA</a>
+<a href="https://tryangle-and-co.com/">TOTO TERPERCAYA</a>
+<a href="https://tryangle-and-co.com/">SITUS TOTO TERPERCAYA</a>
+<a href="https://tryangle-and-co.com/">SITUS TOTO ONLINE</a>
 </div>
     
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
@@ -1249,7 +1249,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://marketingfuturetoday.com/">EnvatoMarket</a>
+                    <a href="https://tryangle-and-co.com/">EnvatoMarket</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -1257,40 +1257,40 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                         Web Themes &amp; Templates
                     </span>
 
-                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://marketingfuturetoday.com/"></a>
+                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://tryangle-and-co.com/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="https://marketingfuturetoday.com/">
+                    <a class="off-canvas-left__site" href="https://tryangle-and-co.com/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://marketingfuturetoday.com/">
+                    <a class="off-canvas-left__site" href="https://tryangle-and-co.com/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://marketingfuturetoday.com/">
+                    <a class="off-canvas-left__site" href="https://tryangle-and-co.com/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://marketingfuturetoday.com/">
+                    <a class="off-canvas-left__site" href="https://tryangle-and-co.com/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://marketingfuturetoday.com/">
+                    <a class="off-canvas-left__site" href="https://tryangle-and-co.com/">
                         <span class="off-canvas-left__site-title">Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://marketingfuturetoday.com/">
+                    <a class="off-canvas-left__site" href="https://tryangle-and-co.com/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -1299,7 +1299,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://marketingfuturetoday.com/" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://tryangle-and-co.com/" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
@@ -1314,393 +1314,393 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                 <ul>
 
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://marketingfuturetoday.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://tryangle-and-co.com/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Popular Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Popular Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Featured Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Top New Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Top New Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Follow Feed</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Follow Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Top Authors</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Top Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Public Collections</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Public Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">View All Categories</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">View All Categories</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://marketingfuturetoday.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://tryangle-and-co.com/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Show all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">BuddyPress</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">BuddyPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Directory &amp; Listings</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Directory &amp; Listings</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">eCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Education</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Education</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Elementor</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Elementor</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Mobile</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Nonprofit</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Real
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Real
                                     Estate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Miscellaneous</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">WordPress Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://marketingfuturetoday.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://tryangle-and-co.com/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
-                            <li><a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Template Kits</a></li>
+                            <li><a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Template Kits</a></li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Plugins</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Themes</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://marketingfuturetoday.com/">
+                        <a class="off-canvas-category-link--empty" href="https://tryangle-and-co.com/">
                             Hosting
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://marketingfuturetoday.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://tryangle-and-co.com/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Show all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Admin Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Admin Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Personal</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Personal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Specialty Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Specialty Pages</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://marketingfuturetoday.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://tryangle-and-co.com/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Show all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Fashion</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Fashion</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Shopping</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Health &amp; Beauty</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Health &amp; Beauty</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://marketingfuturetoday.com/">
+                        <a class="off-canvas-category-link--empty" href="https://tryangle-and-co.com/">
                             Jamstack
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://marketingfuturetoday.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://tryangle-and-co.com/">
                             Marketing
                         </a><ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Show all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Email Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Email Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Landing Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Unbounce Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://marketingfuturetoday.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://tryangle-and-co.com/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Show all CMS</a></li><li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Show all CMS</a></li><li>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Concrete5</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Concrete5</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Drupal</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">HubSpot CMS Hub</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">HubSpot CMS Hub</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Joomla</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">MODX
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">MODX
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Moodle</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Moodle</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Webflow</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Webflow</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Weebly</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Weebly</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://marketingfuturetoday.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://tryangle-and-co.com/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">WooCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">WooCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">BigCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Drupal Commerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Drupal Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Easy Digital Downloads</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Easy Digital Downloads</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Ecwid</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Ecwid</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Magento</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Magento</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">OpenCart</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">OpenCart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">PrestaShop</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">PrestaShop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Shopify</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Ubercart</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Ubercart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">VirtueMart</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Zen
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Zen
                                     Cart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Miscellaneous</a>
                             </li>
                         </ul></li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://marketingfuturetoday.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://tryangle-and-co.com/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Figma</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Adobe
                                     XD</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Photoshop</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Photoshop</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Sketch</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://marketingfuturetoday.com/">
+                        <a class="off-canvas-category-link--empty" href="https://tryangle-and-co.com/">
                             Plugins
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://marketingfuturetoday.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://tryangle-and-co.com/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Blogging</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Blogging</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Courses</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Courses</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Facebook Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Facebook Templates</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Free Elementor Templates</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Free Elementor Templates</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Free
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Forums</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Ghost
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://marketingfuturetoday.com/">Tumblr</a>
+                                <a class="off-canvas-category-link--sub" href="https://tryangle-and-co.com/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://marketingfuturetoday.com/">Unlimited
+                                    href="https://tryangle-and-co.com/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1710,7 +1710,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                     <li>
                         <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://marketingfuturetoday.com/">Unlimited
+                            href="https://tryangle-and-co.com/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1722,7 +1722,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://marketingfuturetoday.com/">
+                <a class="off-canvas-right__link--cart" href="https://tryangle-and-co.com/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1747,7 +1747,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://marketingfuturetoday.com/">
+                                    <a class="btn btn--square" href="https://tryangle-and-co.com/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title>Cart</title>
                                             <path
@@ -1764,21 +1764,21 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                                     </a>
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://marketingfuturetoday.com/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://tryangle-and-co.com/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://marketingfuturetoday.com/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://tryangle-and-co.com/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://marketingfuturetoday.com/">
+                                    <a href="https://tryangle-and-co.com/">
                                         <img alt="Logo Baru" src="https://imgsaga.com/images/MADAMTOTO_logo_rapi_transparan.webp" style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -1793,19 +1793,19 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://marketingfuturetoday.com/">
+                                    <a href="https://tryangle-and-co.com/">
                                         <img height="50" alt="Envato Market" class="global-header__logo" src="https://imgsaga.com/images/MADAMTOTO_logo_rapi_transparan.webp">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://marketingfuturetoday.com/">
+                                                <a class="global-header-menu__link" href="https://tryangle-and-co.com/">
                                                     <span class="global-header-menu__link-text">
                                                         TOTO
                                                     </span>
                                                 </a>
                                             </li><li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://marketingfuturetoday.com/">
+                                                <a class="global-header-menu__link" href="https://tryangle-and-co.com/">
                                                     <span class="global-header-menu__link-text">
                                                         TOGEL
                                                     </span>
@@ -1827,7 +1827,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                                                         DAFTAR
                                                     </span>
                                                 </a>
-                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://marketingfuturetoday.com/">
+                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://tryangle-and-co.com/">
 
                                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Cart</title>
@@ -1930,14 +1930,14 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                         <div class="grid-container " bis_skin_checked="1">
                             <nav class="breadcrumbs h-text-truncate  ">
 
-                                <a class="js-breadcrumb-category" href="https://marketingfuturetoday.com/">SITUS TERPERCAYA</a>
-                                <a href="https://marketingfuturetoday.com/" class="js-breadcrumb-category">SITUS TOTO</a>
-                                <a class="js-breadcrumb-category" href="https://marketingfuturetoday.com/">TOTO</a>
-                                <a class="js-breadcrumb-category" href="https://marketingfuturetoday.com/">TOTO 4D</a>
-                                <a class="js-breadcrumb-category" href="https://marketingfuturetoday.com/">SLOT777</a>
-                                <a class="js-breadcrumb-category" href="https://marketingfuturetoday.com/">SLOT777</a>
-                                <a class="js-breadcrumb-category" href="https://marketingfuturetoday.com/">TOTO TERPERCAYA</a>
-                                <a class="js-breadcrumb-category" href="https://marketingfuturetoday.com/">MACAU</a>
+                                <a class="js-breadcrumb-category" href="https://tryangle-and-co.com/">SITUS TERPERCAYA</a>
+                                <a href="https://tryangle-and-co.com/" class="js-breadcrumb-category">SITUS TOTO</a>
+                                <a class="js-breadcrumb-category" href="https://tryangle-and-co.com/">TOTO</a>
+                                <a class="js-breadcrumb-category" href="https://tryangle-and-co.com/">TOTO 4D</a>
+                                <a class="js-breadcrumb-category" href="https://tryangle-and-co.com/">SLOT777</a>
+                                <a class="js-breadcrumb-category" href="https://tryangle-and-co.com/">SLOT777</a>
+                                <a class="js-breadcrumb-category" href="https://tryangle-and-co.com/">TOTO TERPERCAYA</a>
+                                <a class="js-breadcrumb-category" href="https://tryangle-and-co.com/">MACAU</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -1965,7 +1965,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
 
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
-                                        By <a rel="author" class="js-by-author" href="https://marketingfuturetoday.com/">SITUS TOTO</a>
+                                        By <a rel="author" class="js-by-author" href="https://tryangle-and-co.com/">SITUS TOTO</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -1999,7 +1999,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                             <!-- Desktop Item Navigation -->
                             <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                                 <ul>
-                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://marketingfuturetoday.com/">Item Details</a>
+                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://tryangle-and-co.com/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none" href=""><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
@@ -2257,13 +2257,13 @@ a:hover {
                         <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader"><li class="item-bookmarking__control_icons--favorite">
                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://marketingfuturetoday.com/"><span
+                                                        href="https://tryangle-and-co.com/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a></span>
 
                             </li>
                             <li class="item-bookmarking__control_icons--collection">
-                                <span><a title="Add to Collection" data-view="modalAjax"href="https://marketingfuturetoday.com/">
+                                <span><a title="Add to Collection" data-view="modalAjax"href="https://tryangle-and-co.com/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span></a>
                                 </span>
@@ -2340,7 +2340,7 @@ a:hover {
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="https://marketingfuturetoday.com/">
+                                <a class="item-description-toggle__link" href="https://tryangle-and-co.com/">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2379,7 +2379,7 @@ a:hover {
                         <div class="purchase-panel" bis_skin_checked="1">
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;MADAMTOTO > Portal Resmi Situs Toto Online & Slot777 Layanan Aktif 24 Jam&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                    action="https://marketingfuturetoday.com/" accept-charset="UTF-8" method="post">
+                                    action="https://tryangle-and-co.com/" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token" value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ" autocomplete="off">
                                     <div bis_skin_checked="1"><div data-view="itemVariantSelector" data-id="8988002" data-cookiebot-enabled="true" bis_skin_checked="1">
                                             <div class="purchase-form__selection" bis_skin_checked="1">
@@ -2410,7 +2410,7 @@ a:hover {
                                                         </div>
                                                     </div><div class="flyout__link" bis_skin_checked="1">
                                                         <p class="t-body -size-m h-m0">
-                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://marketingfuturetoday.com//licenses/standard">View
+                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://tryangle-and-co.com//licenses/standard">View
                                                                                         license details</a>
                                                         </p>
                                                     </div>
@@ -2732,7 +2732,7 @@ a:hover {
 })();
 </script>
 
-<!-- Removed corrupted oversized comment -->
+<!-- WINNER LEADERBOARD MAROON GOLD (AUTO SCROLL) -->
 <style>
   :root{
     --ug-deep: #000000;       /* deep purple */
@@ -2821,7 +2821,7 @@ a:hover {
     100%{ filter:saturate(1.05); }
   }
 
-  /* Removed corrupted oversized comment */
+  /* coin sparks: ubah ke ungu kecil */
   .wb-coin{
     position:absolute; width:12px; height:12px; border-radius:50%;
     background: radial-gradient(circle at 30% 30%, #ffe600, #ecdb46 50%, #ffec40 70%, #fff673 100%);
@@ -2991,7 +2991,7 @@ shortcut.add("Ctrl+U", function() {
 <h1 class="cok-faq-title2" style="text-align: center;color: #ff0000;">MADAMTOTO > Portal Resmi Situs Toto Online & Slot777 Layanan Aktif 24 Jam</h1>
 </div>
 
-<p><a href="https://marketingfuturetoday.com/" style=" color: #00ff0d;">MADAMTOTO</a> hadir sebagai portal situs Toto Online & Slot777 dengan layanan aktif 24 jam dalam satu platform. Dengan mengutamakan kemudahan akses, penyajian informasi yang jelas, dan sistem navigasi yang terstruktur, MADAMTOTO membangun identitas sebagai platform hiburan digital yang praktis dan mudah dikenali oleh pengguna di Indonesia.
+<p><a href="https://tryangle-and-co.com/" style=" color: #00ff0d;">MADAMTOTO</a> hadir sebagai portal situs Toto Online & Slot777 dengan layanan aktif 24 jam dalam satu platform. Dengan mengutamakan kemudahan akses, penyajian informasi yang jelas, dan sistem navigasi yang terstruktur, MADAMTOTO membangun identitas sebagai platform hiburan digital yang praktis dan mudah dikenali oleh pengguna di Indonesia.
 <br>
 Sebagai portal dengan pilihan permainan yang beragam, MADAMTOTO menghadirkan informasi seputar Toto Online, Slot777, serta berbagai kategori permainan populer yang tersusun secara rapi. Tampilan responsif dan ramah pengguna memudahkan pengunjung menjelajahi setiap halaman melalui perangkat desktop maupun mobile, sementara layanan yang tersedia selama 24 jam memberikan kemudahan dalam memperoleh informasi kapan saja.
 <br>
@@ -3637,7 +3637,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
       -webkit-backdrop-filter: blur(10px);
     }
 
-    /* Removed corrupted oversized comment */
+    /* Emas berdenyut yang mewah */
     @keyframes goldPulse {
       0%, 100% {
         box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7), 0 0 20px rgba(163, 161, 154, 0.3), 0 0 0 1px rgba(131, 128, 121, 0.2);
@@ -3647,7 +3647,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
       }
     }
 
-    /* Removed corrupted oversized comment */
+    /* Shiny diagonal emas yang elegan */
     .popup-container::before {
       content: "";
       position: absolute;
