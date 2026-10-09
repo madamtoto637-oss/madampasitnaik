@@ -1,0 +1,1597 @@
+
+
+
+
+
+
+<!doctype html>
+<html amp lang="id-ID">
+<head>
+  <meta charset="utf-8">
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+
+  <title>LANDAKTOTO > Portal Mosteiro Link Resmi Slot Gacor APK Slot777 Proges Maxwin Hari ini</title>
+  <meta name="title" content="LANDAKTOTO > Portal Mosteiro Link Resmi Slot Gacor APK Slot777 Proges Maxwin Hari ini">
+  <meta name="description" content="LANDAKTOTO hadir melalui Portal Mosteiro dengan informasi link resmi Slot Gacor APK Slot777, pembaruan konten terbaru, dan referensi pilihan hari ini dalam satu portal.">
+  <meta name="keywords" content="landaktoto, situs toto, toto slot, slot gacor, toto togel">
+  <link rel="canonical" href="https://mosteirodecarboeiro.com/">
+  <link rel="alternate" href="https://mosteirodecarboeiro.com/" hreflang="id">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="id_ID">
+  <meta property="og:title" content="LANDAKTOTO > Portal Mosteiro Link Resmi Slot Gacor APK Slot777 Proges Maxwin Hari ini">
+  <meta property="og:description" content="LANDAKTOTO hadir melalui Portal Mosteiro dengan informasi link resmi Slot Gacor APK Slot777, pembaruan konten terbaru, dan referensi pilihan hari ini dalam satu portal.">
+  <meta property="og:url" content="https://mosteirodecarboeiro.com/">
+  <meta property="og:site_name" content="LANDAKTOTO">
+  <meta property="og:image" content="https://imganekuan.com/uploads/31pjot29.webp">
+  <meta property="og:image:alt" content="LANDAKTOTO > Portal Mosteiro Link Resmi Slot Gacor APK Slot777 Proges Maxwin Hari ini">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="LANDAKTOTO > Portal Mosteiro Link Resmi Slot Gacor APK Slot777 Proges Maxwin Hari ini">
+  <meta name="twitter:description" content="LANDAKTOTO hadir melalui Portal Mosteiro dengan informasi link resmi Slot Gacor APK Slot777, pembaruan konten terbaru, dan referensi pilihan hari ini dalam satu portal.">
+  <meta name="twitter:image" content="https://imganekuan.com/uploads/31pjot29.webp">
+
+  <meta name="theme-color" content="#8b0000">
+  <meta name="robots" content="index,follow">
+  <meta name="googlebot" content="index,follow">
+  <meta name="language" content="id-ID">
+  <meta name="categories" content="website">
+  <meta name="geo.region" content="ID">
+  <meta name="geo.placename" content="DKI Jakarta">
+  <meta name="tgn.nation" content="Indonesia">
+  <meta name="author" content="LANDAKTOTO">
+  <link rel="apple-touch-icon" href="https://landaktoto-saiyan.live/image/landaktoto-favicon.png">
+  <link rel="shortcut icon" type="image/webp" href="https://landaktoto-saiyan.live/image/landaktoto-favicon.png">
+
+  <style amp-boilerplate>
+    body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}
+    @-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+  </style>
+  <noscript>
+    <style amp-boilerplate>
+      body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}
+    </style>
+  </noscript>
+
+  <style amp-custom>
+    :root{
+      --black:#050505;
+      --black-soft:#0d0d0d;
+      --black-panel:#151515;
+      --yellow-deep:#9a6200;
+      --yellow-dark:#c98200;
+      --yellow:#f5a900;
+      --yellow-bright:#ffbf00;
+      --gold:#ffd34e;
+      --gold-bright:#ffe786;
+      --white:#f5f5f5;
+      --muted:#d6c27a;
+      --line:rgba(255,191,0,.38);
+      --shadow:0 18px 48px rgba(0,0,,0,.52);
+    }
+
+    *{box-sizing:border-box}
+
+    html{
+      background:var(--black);
+      scroll-behavior:smooth;
+    }
+
+    body{
+      margin:0;
+      min-height:100vh;
+      color:var(--white);
+      background:
+        radial-gradient(
+          circle at 18% 8%,
+          rgba(255,191,0,.24),
+          transparent 34%
+        ),
+        radial-gradient(
+          circle at 86% 26%,
+          rgba(245,169,0,.16),
+          transparent 28%
+        ),
+        linear-gradient(
+          180deg,
+          #211600 0%,
+          #080808 32%,
+          #11100a 72%,
+          #020202 100%
+        );
+      font-family:Verdana,Arial,sans-serif;
+      font-size:13px;
+      line-height:1.55;
+      padding-bottom:92px;
+      overflow-x:hidden;
+    }
+
+    body:before,
+    body:after{
+      content:"";
+      position:fixed;
+      pointer-events:none;
+      z-index:0;
+    }
+
+    body:before{
+      width:420px;
+      height:420px;
+      top:-210px;
+      right:-160px;
+      border:1px solid rgba(255,231,134,.15);
+      border-radius:50%;
+      box-shadow:
+        0 0 0 48px rgba(255,191,0,.045),
+        0 0 0 96px rgba(245,169,0,.032),
+        0 0 100px rgba(255,191,0,.24);
+      animation:orbitDrift 14s ease-in-out infinite alternate;
+    }
+
+    body:after{
+      left:0;
+      right:0;
+      top:0;
+      bottom:0;
+      opacity:.3;
+      background-image:
+        linear-gradient(
+          rgba(255,191,0,.045) 1px,
+          transparent 1px
+        ),
+        linear-gradient(
+          90deg,
+          rgba(255,191,0,.045) 1px,
+          transparent 1px
+        );
+      background-size:34px 34px;
+      -webkit-mask-image:
+        linear-gradient(to bottom,rgba(0,0,0,.8),transparent 80%);
+      mask-image:
+        linear-gradient(to bottom,rgba(0,0,0,.8),transparent 80%);
+    }
+
+    a{
+      color:inherit;
+      text-decoration:none;
+    }
+
+    amp-img{display:block}
+
+    .site-shell{
+      position:relative;
+      z-index:1;
+      width:100%;
+      max-width:1100px;
+      margin:0 auto;
+      padding:0 12px;
+    }
+
+    .topbar{
+      position:sticky;
+      top:0;
+      z-index:50;
+      border-bottom:1px solid rgba(255,191,0,.42);
+      background:
+        linear-gradient(
+          180deg,
+          rgba(17,17,17,.98),
+          rgba(4,4,4,.96)
+        );
+      box-shadow:
+        0 8px 28px rgba(0,0,0,.55),
+        0 1px 0 rgba(255,231,134,.08) inset;
+    }
+
+    .topbar:after{
+      content:"";
+      position:absolute;
+      left:0;
+      right:0;
+      bottom:-1px;
+      height:2px;
+      background:
+        linear-gradient(
+          90deg,
+          transparent,
+          var(--yellow-dark),
+          var(--yellow-bright),
+          var(--gold-bright),
+          var(--yellow-bright),
+          var(--yellow-dark),
+          transparent
+        );
+      animation:lineGlow 3.8s ease-in-out infinite;
+    }
+
+    .topbar-inner{
+      width:100%;
+      max-width:1100px;
+      min-height:66px;
+      margin:0 auto;
+      padding:8px 12px;
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:12px;
+    }
+
+    .brand{
+      width:144px;
+      min-width:144px;
+      position:relative;
+    }
+
+    .brand:before{
+      content:"";
+      position:absolute;
+      left:11%;
+      right:11%;
+      top:20%;
+      bottom:20%;
+      border-radius:50%;
+      background:rgba(255,191,0,.3);
+      filter:blur(16px);
+      animation:softPulse 2.8s ease-in-out infinite;
+    }
+
+    .brand amp-img{
+      position:relative;
+      z-index:1;
+    }
+
+    .header-cta{
+      display:flex;
+      align-items:center;
+      gap:7px;
+    }
+
+    .mini-button{
+      min-width:76px;
+      padding:9px 13px;
+      border-radius:999px;
+      text-align:center;
+      text-transform:uppercase;
+      letter-spacing:.6px;
+      font-size:11px;
+      font-weight:800;
+      border:1px solid rgba(255,231,134,.72);
+      background:
+        linear-gradient(
+          180deg,
+          #ffcf26 0%,
+          #f5a900 48%,
+          #b87500 100%
+        );
+      color:#050505;
+      text-shadow:0 1px 0 rgba(255,255,255,.28);
+      box-shadow:
+        0 7px 18px rgba(255,169,0,.3),
+        0 1px 0 rgba(255,255,255,.38) inset;
+      animation:headerButton 2.6s ease-in-out infinite;
+    }
+
+    .mini-button:hover{
+      background:
+        linear-gradient(
+          180deg,
+          #ffe786 0%,
+          #ffbf00 50%,
+          #d58c00 100%
+        );
+      border-color:#fff0a8;
+      box-shadow:
+        0 0 22px rgba(255,191,0,.58),
+        0 1px 0 rgba(255,255,255,.45) inset;
+    }
+
+    .hero{
+      padding:14px 0 4px;
+    }
+
+    .hero-frame{
+      position:relative;
+      padding:4px;
+      border-radius:22px;
+      overflow:hidden;
+      background:
+        linear-gradient(
+          135deg,
+          var(--gold-bright),
+          var(--yellow-bright) 34%,
+          #9a6200 60%,
+          var(--gold)
+        );
+      box-shadow:
+        var(--shadow),
+        0 0 36px rgba(255,191,0,.28);
+    }
+
+    .hero-frame:before{
+      content:"";
+      position:absolute;
+      width:78%;
+      height:170%;
+      top:-35%;
+      left:-85%;
+      transform:rotate(16deg);
+      background:
+        linear-gradient(
+          90deg,
+          transparent,
+          rgba(255,255,255,.48),
+          transparent
+        );
+      animation:heroSweep 5.2s ease-in-out infinite;
+      z-index:2;
+      pointer-events:none;
+    }
+
+    .hero-media{
+      position:relative;
+      overflow:hidden;
+      border-radius:18px;
+      background:#080808;
+    }
+
+    .hero-media:after{
+      content:"";
+      position:absolute;
+      left:0;
+      right:0;
+      top:0;
+      bottom:0;
+      z-index:1;
+      pointer-events:none;
+      box-shadow:
+        inset 0 0 42px rgba(0,0,0,.6),
+        inset 0 -90px 80px rgba(27,18,0,.42);
+      border:1px solid rgba(255,231,134,.22);
+      border-radius:18px;
+    }
+
+    .hero-corners span{
+      position:absolute;
+      z-index:3;
+      width:34px;
+      height:34px;
+      border-color:var(--yellow-bright);
+      border-style:solid;
+      opacity:.92;
+      pointer-events:none;
+      filter:drop-shadow(0 0 5px rgba(255,191,0,.65));
+    }
+
+    .hero-corners span:nth-child(1){
+      left:13px;
+      top:13px;
+      border-width:2px 0 0 2px;
+    }
+
+    .hero-corners span:nth-child(2){
+      right:13px;
+      top:13px;
+      border-width:2px 2px 0 0;
+    }
+
+    .hero-corners span:nth-child(3){
+      left:13px;
+      bottom:13px;
+      border-width:0 0 2px 2px;
+    }
+
+    .hero-corners span:nth-child(4){
+      right:13px;
+      bottom:13px;
+      border-width:0 2px 2px 0;
+    }
+
+    .hero-badge{
+      position:absolute;
+      left:16px;
+      bottom:16px;
+      z-index:4;
+      display:flex;
+      align-items:center;
+      gap:8px;
+      max-width:calc(100% - 32px);
+      padding:8px 11px;
+      border:1px solid rgba(255,191,0,.68);
+      border-radius:12px;
+      background:
+        linear-gradient(
+          135deg,
+          rgba(5,5,5,.94),
+          rgba(25,18,2,.9)
+        );
+      box-shadow:
+        0 8px 24px rgba(0,0,0,.45),
+        0 0 16px rgba(255,191,0,.15);
+      color:var(--yellow-bright);
+      font-size:10px;
+      font-weight:700;
+      letter-spacing:.5px;
+      text-transform:uppercase;
+    }
+
+    .live-dot{
+  width:8px;
+  height:8px;
+  flex:0 0 8px;
+  border-radius:50%;
+  background:var(--yellow-bright);
+  box-shadow:
+    0 0 0 4px rgba(255,191,0,.18),
+    0 0 15px rgba(255,191,0,.95);
+  animation:livePulse 1.5s ease-in-out infinite;
+}
+
+.hero-copy{
+  padding:12px 2px 6px;
+}
+
+.hero-kicker{
+  display:block;
+  margin-bottom:7px;
+  color:var(--yellow);
+  font-size:10px;
+  font-weight:900;
+  letter-spacing:1.4px;
+  text-transform:uppercase;
+}
+
+.hero-title{
+  margin:0;
+  color:var(--white);
+  font-size:clamp(20px,5vw,32px);
+  line-height:1.18;
+  letter-spacing:-.4px;
+  text-shadow:0 0 22px rgba(255,191,0,.2);
+}
+
+.hero-description{
+  margin:9px 0 0;
+  color:var(--muted);
+  font-size:11px;
+  line-height:1.65;
+}
+
+.action-grid{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:10px;
+  padding:12px 0 8px;
+}
+
+.main-button{
+  position:relative;
+  min-height:50px;
+  padding:12px 10px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  overflow:hidden;
+  border-radius:14px;
+  font-size:14px;
+  font-weight:900;
+  letter-spacing:.9px;
+  text-align:center;
+  text-transform:uppercase;
+  box-shadow:
+    0 12px 26px rgba(0,0,0,.4),
+    0 1px 0 rgba(255,255,255,.2) inset;
+  transform:translateZ(0);
+}
+
+.main-button:before{
+  content:"";
+  position:absolute;
+  width:40%;
+  height:220%;
+  left:-70%;
+  top:-60%;
+  transform:rotate(22deg);
+  background:linear-gradient(
+    90deg,
+    transparent,
+    rgba(255,255,255,.5),
+    transparent
+  );
+  animation:buttonSweep 3.4s ease-in-out infinite;
+}
+
+.main-button span{
+  position:relative;
+  z-index:1;
+}
+
+.button-login{
+  border:1px solid rgba(255,191,0,.68);
+  background:linear-gradient(
+    180deg,
+    #1c1c1c 0%,
+    #050505 100%
+  );
+  color:var(--yellow-bright);
+  box-shadow:
+    0 12px 26px rgba(0,0,0,.42),
+    0 0 14px rgba(255,191,0,.1) inset;
+}
+
+.button-register{
+  border:1px solid var(--gold-bright);
+  background:linear-gradient(
+    135deg,
+    #ffe786 0%,
+    #ffbf00 34%,
+    #f5a900 64%,
+    #a86b00 100%
+  );
+  color:#050505;
+  text-shadow:0 1px 0 rgba(255,255,255,.32);
+  animation:registerPulse 2.5s ease-in-out infinite;
+}
+
+.promo-frame{
+  margin-top:4px;
+  padding:3px;
+  border-radius:15px;
+  overflow:hidden;
+  background:linear-gradient(
+    90deg,
+    var(--yellow-dark),
+    var(--yellow-bright),
+    var(--gold-bright),
+    var(--yellow-bright),
+    var(--yellow-dark)
+  );
+  box-shadow:
+    0 10px 30px rgba(0,0,0,.4),
+    0 0 18px rgba(255,191,0,.18);
+}
+
+.promo-frame amp-img{
+  border-radius:12px;
+  background:#070707;
+}
+
+.ticker{
+  position:relative;
+  margin:10px 0 14px;
+  overflow:hidden;
+  border:1px solid rgba(255,191,0,.55);
+  border-radius:12px;
+  background:linear-gradient(
+    90deg,
+    #070707 0%,
+    #2b1d00 46%,
+    #070707 100%
+  );
+  box-shadow:
+    0 10px 25px rgba(0,0,0,.38),
+    0 0 18px rgba(255,191,0,.12) inset;
+}
+
+.ticker:before,
+.ticker:after{
+  content:"";
+  position:absolute;
+  top:0;
+  bottom:0;
+  width:42px;
+  z-index:2;
+  pointer-events:none;
+}
+
+.ticker:before{
+  left:0;
+  background:linear-gradient(90deg,#070707,transparent);
+}
+
+.ticker:after{
+  right:0;
+  background:linear-gradient(270deg,#070707,transparent);
+}
+
+.ticker-track{
+  display:inline-block;
+  min-width:100%;
+  padding:9px 0;
+  color:var(--yellow-bright);
+  font-size:11px;
+  font-weight:700;
+  white-space:nowrap;
+  animation:tickerMove 19s linear infinite;
+}
+
+.ticker-track span{
+  padding-left:100vw;
+}
+
+.quick-stats{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:8px;
+  margin-bottom:14px;
+}
+
+.stat-card{
+  min-width:0;
+  padding:11px 6px 10px;
+  border:1px solid rgba(255,191,0,.28);
+  border-radius:12px;
+  background:linear-gradient(
+    180deg,
+    rgba(41,29,2,.94),
+    rgba(7,7,7,.97)
+  );
+  box-shadow:
+    0 10px 24px rgba(0,0,0,.32),
+    0 1px 0 rgba(255,231,134,.08) inset;
+  text-align:center;
+}
+
+.stat-value{
+  display:block;
+  color:var(--yellow-bright);
+  font-weight:900;
+  font-size:13px;
+  line-height:1.2;
+  text-shadow:0 0 12px rgba(255,191,0,.32);
+}
+
+.stat-label{
+  display:block;
+  margin-top:4px;
+  color:var(--muted);
+  font-size:9px;
+  text-transform:uppercase;
+  letter-spacing:.5px;
+}
+
+    .section-card{
+  position:relative;
+  margin:0 0 14px;
+  border:1px solid var(--line);
+  border-radius:18px;
+  overflow:hidden;
+  background:linear-gradient(
+    180deg,
+    rgba(35,26,4,.97),
+    rgba(5,5,5,.98)
+  );
+  box-shadow:
+    var(--shadow),
+    0 1px 0 rgba(255,231,134,.06) inset;
+}
+
+.section-card:before{
+  content:"";
+  position:absolute;
+  left:-20%;
+  top:-110px;
+  width:230px;
+  height:230px;
+  border-radius:50%;
+  background:radial-gradient(
+    circle,
+    rgba(255,191,0,.18),
+    transparent 70%
+  );
+  pointer-events:none;
+}
+
+.section-heading{
+  position:relative;
+  z-index:1;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:10px;
+  padding:13px 13px 12px;
+  border-bottom:1px solid rgba(255,191,0,.24);
+  background:linear-gradient(
+    90deg,
+    rgba(122,81,0,.62),
+    rgba(14,12,6,.34)
+  );
+}
+
+.heading-title{
+  min-width:0;
+  display:flex;
+  align-items:center;
+  gap:10px;
+  color:var(--gold-bright);
+  font-size:13px;
+  font-weight:900;
+  letter-spacing:.4px;
+  text-transform:uppercase;
+}
+
+.heading-icon{
+  width:29px;
+  height:29px;
+  flex:0 0 29px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  border:1px solid rgba(255,231,134,.65);
+  border-radius:9px;
+  background:linear-gradient(
+    145deg,
+    #ffbf00,
+    #c98200 58%,
+    #714800
+  );
+  box-shadow:0 0 18px rgba(255,191,0,.26);
+  color:#050505;
+  font-size:14px;
+  text-shadow:0 1px 0 rgba(255,255,255,.3);
+}
+
+.heading-link{
+  flex:0 0 auto;
+  padding:7px 9px;
+  border:1px solid rgba(255,191,0,.58);
+  border-radius:999px;
+  background:#090909;
+  color:var(--yellow-bright);
+  font-size:9px;
+  font-weight:800;
+  text-transform:uppercase;
+  letter-spacing:.4px;
+}
+
+.game-grid{
+  position:relative;
+  z-index:1;
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:9px;
+  padding:10px;
+}
+
+.game-card{
+  min-width:0;
+  overflow:hidden;
+  border:1px solid rgba(255,191,0,.32);
+  border-radius:14px;
+  background:linear-gradient(
+    180deg,
+    #251b03,
+    #080808
+  );
+  box-shadow:
+    0 9px 22px rgba(0,0,0,.34),
+    0 1px 0 rgba(255,231,134,.05) inset;
+  transform:translateZ(0);
+}
+
+.game-media{
+  position:relative;
+  overflow:hidden;
+  background:#090909;
+}
+
+.game-media:after{
+  content:"";
+  position:absolute;
+  left:0;
+  right:0;
+  top:0;
+  bottom:0;
+  pointer-events:none;
+  box-shadow:
+    inset 0 -45px 40px rgba(0,0,0,.34),
+    inset 0 0 0 1px rgba(255,191,0,.06);
+}
+
+.game-card amp-img{
+  transition:transform .35s ease;
+}
+
+.game-card:focus-within amp-img{
+  transform:scale(1.035);
+}
+
+.game-content{
+  padding:9px;
+}
+
+.game-name{
+  min-height:32px;
+  margin:0 0 7px;
+  color:var(--white);
+  font-size:11px;
+  font-weight:800;
+  line-height:1.35;
+}
+
+.rtp-row{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:7px;
+  margin-bottom:5px;
+  color:var(--muted);
+  font-size:9px;
+  font-weight:700;
+}
+
+.rtp-value{
+  color:var(--yellow-bright);
+}
+
+.rtp-track{
+  height:7px;
+  overflow:hidden;
+  border:1px solid rgba(255,191,0,.4);
+  border-radius:999px;
+  background:#020202;
+  box-shadow:0 1px 4px rgba(0,0,0,.75) inset;
+}
+
+.rtp-fill{
+  height:100%;
+  border-radius:inherit;
+  background:linear-gradient(
+    90deg,
+    #9a6200 0%,
+    #f5a900 45%,
+    #ffbf00 72%,
+    #ffe786 100%
+  );
+  box-shadow:0 0 10px rgba(255,191,0,.48);
+  transform-origin:left center;
+  animation:barGlow 2.2s ease-in-out infinite alternate;
+}
+
+.play-button{
+  margin-top:8px;
+  min-height:31px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  border:1px solid rgba(255,231,134,.64);
+  border-radius:9px;
+  background:linear-gradient(
+    180deg,
+    #ffbf00 0%,
+    #f5a900 48%,
+    #a86b00 100%
+  );
+  color:#050505;
+  font-size:10px;
+  font-weight:900;
+  letter-spacing:.6px;
+  text-transform:uppercase;
+  text-shadow:0 1px 0 rgba(255,255,255,.3);
+  box-shadow:
+    0 6px 15px rgba(255,169,0,.2),
+    0 1px 0 rgba(255,255,255,.3) inset;
+}
+
+.contact-grid{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:9px;
+  padding:10px;
+}
+
+.contact-button{
+  min-width:0;
+  min-height:45px;
+  padding:9px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:8px;
+  border:1px solid rgba(255,191,0,.34);
+  border-radius:12px;
+  background:linear-gradient(
+    180deg,
+    #211a08,
+    #070707
+  );
+  color:var(--yellow-bright);
+  font-size:11px;
+  font-weight:800;
+  box-shadow:0 1px 0 rgba(255,231,134,.05) inset;
+}
+
+.contact-icon{
+  width:24px;
+  height:24px;
+  flex:0 0 24px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  border-radius:50%;
+  background:linear-gradient(
+    145deg,
+    #ffcf26,
+    #f5a900 50%,
+    #9a6200
+  );
+  color:#050505;
+  font-size:12px;
+  font-weight:900;
+  box-shadow:0 0 14px rgba(255,191,0,.3);
+}
+
+    .bank-grid{
+  position:relative;
+  z-index:1;
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:10px;
+  padding:12px 10px 14px;
+}
+
+.bank-card{
+  --brand:#f5a900;
+  --brand-soft:rgba(255,191,0,.13);
+  position:relative;
+  min-width:0;
+  min-height:78px;
+  padding:10px;
+  display:flex;
+  flex-direction:column;
+  justify-content:space-between;
+  gap:9px;
+  overflow:hidden;
+  border:1px solid rgba(255,191,0,.42);
+  border-radius:13px;
+  background:linear-gradient(
+    145deg,
+    #fff9df 0%,
+    #f5d978 100%
+  );
+  box-shadow:
+    0 9px 22px rgba(0,0,0,.32),
+    0 1px 0 #fff inset;
+}
+
+.bank-card:after{
+  content:"";
+  position:absolute;
+  left:0;
+  top:0;
+  bottom:0;
+  width:3px;
+  background:var(--brand);
+  box-shadow:0 0 12px var(--brand);
+}
+
+.bank-brand{
+  min-width:0;
+  display:flex;
+  align-items:center;
+  gap:8px;
+}
+
+.bank-mark{
+  width:29px;
+  height:29px;
+  flex:0 0 29px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  border:1px solid rgba(0,0,0,.12);
+  border-radius:9px;
+  background:var(--brand-soft);
+  color:#050505;
+  font-size:11px;
+  font-weight:900;
+  letter-spacing:-.4px;
+}
+
+.bank-name{
+  min-width:0;
+  color:#171000;
+  font-size:12px;
+  font-weight:900;
+  line-height:1.05;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+
+.bank-type{
+  display:block;
+  margin-top:3px;
+  color:#725900;
+  font-size:8px;
+  font-weight:700;
+  letter-spacing:.35px;
+  text-transform:uppercase;
+}
+
+.bank-status{
+  width:max-content;
+  display:flex;
+  align-items:center;
+  gap:5px;
+  padding:4px 7px;
+  border:1px solid rgba(201,130,0,.34);
+  border-radius:999px;
+  background:rgba(255,191,0,.16);
+  color:#5f4100;
+  font-size:8px;
+  font-weight:900;
+  letter-spacing:.5px;
+  text-transform:uppercase;
+}
+
+.bank-status:before{
+  content:"";
+  width:6px;
+  height:6px;
+  flex:0 0 6px;
+  border-radius:50%;
+  background:#f5a900;
+  box-shadow:
+    0 0 0 3px rgba(255,191,0,.16),
+    0 0 9px rgba(255,169,0,.85);
+  animation:bankBlink 1.8s ease-in-out infinite;
+}
+
+/* Seluruh bank memakai identitas warna kuning–hitam LANDAKTOTO */
+.bank-bca,
+.bank-mandiri,
+.bank-bri,
+.bank-bni,
+.bank-danamon,
+.bank-cimb,
+.bank-permata,
+.bank-ovo,
+.bank-gopay,
+.bank-dana,
+.bank-linkaja,
+.bank-qris{
+  --brand:#c98200;
+  --brand-soft:rgba(255,191,0,.18);
+}
+
+.footer-copy{
+  padding:17px 12px 24px;
+  border-top:1px solid rgba(255,191,0,.22);
+  color:var(--muted);
+  text-align:center;
+  font-size:10px;
+}
+
+.footer-copy strong{
+  color:var(--yellow-bright);
+}
+
+.fixed-nav{
+  position:fixed;
+  left:0;
+  right:0;
+  bottom:0;
+  z-index:60;
+  min-height:70px;
+  padding:7px 12px 8px;
+  display:grid;
+  grid-template-columns:1fr 1fr 1fr;
+  gap:8px;
+  border-top:1px solid rgba(255,191,0,.55);
+  background:linear-gradient(
+    180deg,
+    rgba(19,16,7,.98),
+    rgba(2,2,2,.99)
+  );
+  box-shadow:
+    0 -12px 32px rgba(0,0,0,.58),
+    0 1px 0 rgba(255,231,134,.06) inset;
+}
+
+.nav-button{
+  position:relative;
+  min-width:0;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  gap:2px;
+  border:1px solid rgba(255,191,0,.28);
+  border-radius:12px;
+  background:linear-gradient(
+    180deg,
+    #211a08,
+    #070707
+  );
+  color:var(--yellow-bright);
+  font-size:9px;
+  font-weight:800;
+  text-transform:uppercase;
+  letter-spacing:.4px;
+}
+
+.nav-button strong{
+  display:block;
+  color:var(--white);
+  font-size:14px;
+  line-height:1;
+}
+
+.nav-primary{
+  border-color:rgba(255,231,134,.7);
+  background:linear-gradient(
+    145deg,
+    #ffe786 0%,
+    #ffbf00 32%,
+    #f5a900 62%,
+    #9a6200 100%
+  );
+  color:#050505;
+  box-shadow:
+    0 0 20px rgba(255,191,0,.3),
+    0 1px 0 rgba(255,255,255,.34) inset;
+  animation:navPulse 2.3s ease-in-out infinite;
+}
+
+.nav-primary strong{
+  color:#050505;
+}
+
+@keyframes orbitDrift{
+  0%{
+    transform:translate3d(0,0,0) scale(1);
+    opacity:.55;
+  }
+  100%{
+    transform:translate3d(-48px,52px,0) scale(1.13);
+    opacity:.95;
+  }
+}
+
+@keyframes lineGlow{
+  0%,100%{
+    opacity:.35;
+    transform:scaleX(.58);
+  }
+  50%{
+    opacity:1;
+    transform:scaleX(1);
+  }
+}
+
+@keyframes softPulse{
+  0%,100%{
+    opacity:.45;
+    transform:scale(.92);
+  }
+  50%{
+    opacity:.92;
+    transform:scale(1.08);
+  }
+}
+
+@keyframes headerButton{
+  0%,100%{
+    transform:translateY(0);
+  }
+  50%{
+    transform:translateY(-2px);
+  }
+}
+
+@keyframes heroSweep{
+  0%,18%{
+    transform:translateX(0) rotate(16deg);
+    opacity:0;
+  }
+  38%{
+    opacity:.78;
+  }
+  58%,100%{
+    transform:translateX(270%) rotate(16deg);
+    opacity:0;
+  }
+}
+
+@keyframes livePulse{
+  0%,100%{
+    transform:scale(.8);
+    opacity:.65;
+    box-shadow:
+      0 0 0 3px rgba(255,191,0,.13),
+      0 0 9px rgba(255,191,0,.55);
+  }
+  50%{
+    transform:scale(1.15);
+    opacity:1;
+    box-shadow:
+      0 0 0 5px rgba(255,191,0,.2),
+      0 0 17px rgba(255,191,0,1);
+  }
+}
+
+@keyframes buttonSweep{
+  0%,25%{
+    transform:translateX(0) rotate(22deg);
+    opacity:0;
+  }
+  45%{
+    opacity:.7;
+  }
+  70%,100%{
+    transform:translateX(500%) rotate(22deg);
+    opacity:0;
+  }
+}
+
+@keyframes registerPulse{
+  0%,100%{
+    transform:translateY(0);
+    box-shadow:
+      0 12px 26px rgba(0,0,0,.36),
+      0 0 0 rgba(255,191,0,0);
+  }
+  50%{
+    transform:translateY(-2px);
+    box-shadow:
+      0 15px 30px rgba(0,0,0,.42),
+      0 0 22px rgba(255,191,0,.38);
+  }
+}
+
+@keyframes tickerMove{
+  0%{
+    transform:translateX(0);
+  }
+  100%{
+    transform:translateX(-100%);
+  }
+}
+
+@keyframes barGlow{
+  0%{
+    opacity:.74;
+    transform:scaleX(.985);
+    box-shadow:0 0 7px rgba(255,191,0,.28);
+  }
+  100%{
+    opacity:1;
+    transform:scaleX(1);
+    box-shadow:0 0 13px rgba(255,191,0,.65);
+  }
+}
+
+@keyframes bankBlink{
+  0%,100%{
+    opacity:.55;
+    transform:scale(.82);
+  }
+  50%{
+    opacity:1;
+    transform:scale(1.12);
+  }
+}
+
+@keyframes navPulse{
+  0%,100%{
+    transform:translateY(0);
+    box-shadow:0 0 13px rgba(255,191,0,.2);
+  }
+  50%{
+    transform:translateY(-2px);
+    box-shadow:0 0 24px rgba(255,191,0,.45);
+  }
+}
+
+@media (min-width:600px){
+  body{
+    font-size:14px;
+    padding-bottom:96px;
+  }
+
+  .site-shell{
+    padding:0 18px;
+  }
+
+  .topbar-inner{
+    padding-left:18px;
+    padding-right:18px;
+  }
+
+  .brand{
+    width:170px;
+    min-width:170px;
+  }
+
+  .mini-button{
+    min-width:95px;
+    padding:10px 18px;
+    font-size:12px;
+  }
+
+  .hero{
+    padding-top:18px;
+  }
+
+  .action-grid{
+    gap:12px;
+    padding:14px 0 10px;
+  }
+
+  .main-button{
+    min-height:56px;
+    font-size:15px;
+  }
+
+  .ticker-track{
+    font-size:12px;
+  }
+
+  .game-grid{
+    grid-template-columns:repeat(3,minmax(0,1fr));
+    gap:12px;
+    padding:13px;
+  }
+
+  .game-name{
+    font-size:12px;
+  }
+
+  .bank-grid{
+    grid-template-columns:repeat(3,minmax(0,1fr));
+    gap:10px;
+    padding:13px;
+  }
+
+  .contact-grid{
+    padding:13px;
+    gap:12px;
+  }
+
+  .fixed-nav{
+    left:50%;
+    right:auto;
+    width:560px;
+    transform:translateX(-50%);
+    border-left:1px solid rgba(255,191,0,.28);
+    border-right:1px solid rgba(255,191,0,.28);
+    border-radius:18px 18px 0 0;
+  }
+}
+
+@media (min-width:900px){
+  .hero-block{
+    display:grid;
+    grid-template-columns:minmax(0,1.08fr) minmax(320px,.92fr);
+    gap:16px;
+    align-items:start;
+  }
+
+  .hero-side{
+    padding-top:14px;
+  }
+
+  .action-grid{
+    padding-top:0;
+  }
+
+  .quick-stats{
+    margin-top:11px;
+  }
+
+  .game-grid{
+    grid-template-columns:repeat(3,minmax(0,1fr));
+  }
+
+  .bank-grid{
+    grid-template-columns:repeat(4,minmax(0,1fr));
+  }
+
+  .section-heading{
+    padding:15px 16px 14px;
+  }
+
+  .heading-title{
+    font-size:14px;
+  }
+}
+
+@media (prefers-reduced-motion:reduce){
+  body:before,
+  .topbar:after,
+  .brand:before,
+  .mini-button,
+  .hero-frame:before,
+  .live-dot,
+  .main-button:before,
+  .button-register,
+  .ticker-track,
+  .rtp-fill,
+  .bank-status:before,
+  .nav-primary{
+    animation:none;
+  }
+
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="https://mosteirodecarboeiro.com/" aria-label="Beranda LANDAK TOTO SLOT GACOR">
+        <amp-img layout="responsive" width="700" height="200" src="https://landaktoto-saiyan.live/image/landaktoto-logo-baru.webp" alt="Logo LANDAKTOTO" noloading></amp-img>
+      </a>
+      <div class="header-cta">
+        <a class="mini-button" href="https://landaktotoforza.com/slot777/daftar-vip/" target="_blank" rel="nofollow noopener">Daftar</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="site-shell">
+    <div class="hero-block">
+      <section class="hero" aria-label="Banner utama LANDAKTOTO">
+        <div class="hero-frame">
+          <div class="hero-media">
+            <amp-img layout="responsive" width="600" height="600" src="https://imganekuan.com/uploads/31pjot29.webp" alt="LANDAKTOTO Situs Toto Slot Gacor Gampang Menang"></amp-img>
+            <div class="hero-corners" aria-hidden="true">
+              <span></span><span></span><span></span><span></span>
+            </div>
+            <div class="hero-badge"><span class="live-dot"></span>Official Access • Online 24 Jam</div>
+          </div>
+        </div>
+      </section>
+
+      <div class="hero-side">
+        <div class="hero-copy">
+          <span class="hero-kicker">Official LANDAKTOTO &bull; Situs Toto Slot Gacor 2026</span>
+          <h1 class="hero-title"LANDAKTOTO > Portal Mosteiro Link Resmi Slot Gacor APK Slot777 Proges Maxwin Hari ini</h1>
+          <p class="hero-description">LANDAKTOTO hadir melalui Portal Mosteiro dengan informasi link resmi Slot Gacor APK Slot777, pembaruan konten terbaru, dan referensi pilihan hari ini dalam satu portal.</p>
+        </div>
+        <nav class="action-grid" aria-label="Akses akun">
+          <a class="main-button button-login" href="https://landaktotoforza.com/slot777/daftar-vip/" target="_blank" rel="nofollow noopener"><span>Login</span></a>
+          <a class="main-button button-register" href="https://landaktotoforza.com/slot777/daftar-vip/" target="_blank" rel="nofollow noopener"><span>Daftar</span></a>
+        </nav>
+
+
+
+        <div class="ticker" aria-label="Informasi berjalan">
+          <div class="ticker-track"><span>Selamat Datang di Situs Resmi LANDAKTOTO • Situs Slot Gacor Gampang Menang dengan Link RTP Thebest Hari Ini • Layanan Aktif 24 Jam</span></div>
+        </div>
+
+        <div class="quick-stats" aria-label="Status layanan">
+          <div class="stat-card"><span class="stat-value">24/7</span><span class="stat-label">Layanan</span></div>
+          <div class="stat-card"><span class="stat-value">Cepat</span><span class="stat-label">Akses</span></div>
+          <div class="stat-card"><span class="stat-value">Aktif</span><span class="stat-label">Status</span></div>
+        </div>
+      </div>
+    </div>
+
+    <section class="section-card" aria-labelledby="game-title">
+      <div class="section-heading">
+        <div class="heading-title" id="game-title"><span class="heading-icon">◆</span>RTP Slot Live Hari Ini</div>
+        <a class="heading-link" href="https://landaktotoforza.com/slot777/daftar-vip/" target="_blank" rel="nofollow noopener">Live RTP Slot</a>
+      </div>
+
+      <div class="game-grid">
+        <article class="game-card">
+          <div class="game-media">
+            <amp-img layout="responsive" width="215" height="145" src="https://dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20swbonsup.webp?v=20250528" alt="Sweet Bonanza Super Scatter"></amp-img>
+          </div>
+          <div class="game-content">
+            <h2 class="game-name">Sweet Bonanza Super Scatter</h2>
+            <div class="rtp-row"><span>RTP Hari Ini</span><span class="rtp-value">92,18%</span></div>
+            <div class="rtp-track"><div class="rtp-fill" style="width:92.18%"></div></div>
+            <a class="play-button" href="https://landaktotoforza.com/slot777/daftar-vip/" target="_blank" rel="nofollow noopener">Main Sekarang</a>
+          </div>
+        </article>
+
+        <article class="game-card">
+          <div class="game-media">
+            <amp-img layout="responsive" width="215" height="145" src="https://dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_65.webp?v=20250528" alt="Mahjong Ways"></amp-img>
+          </div>
+          <div class="game-content">
+            <h2 class="game-name">Mahjong Ways</h2>
+            <div class="rtp-row"><span>RTP Hari Ini</span><span class="rtp-value">92,88%</span></div>
+            <div class="rtp-track"><div class="rtp-fill" style="width:92.88%"></div></div>
+            <a class="play-button" href="https://landaktotoforza.com/slot777/daftar-vip/" target="_blank" rel="nofollow noopener">Main Sekarang</a>
+          </div>
+        </article>
+
+        <article class="game-card">
+          <div class="game-media">
+            <amp-img layout="responsive" width="215" height="145" src="https://dsuown9evwz4y.cloudfront.net/Images/providers/PP/vswaysmahwblck.webp?v=20250528" alt="Mahjong Wins 3 - Black Scatter"></amp-img>
+          </div>
+          <div class="game-content">
+            <h2 class="game-name">Mahjong Wins 3 - Black Scatter</h2>
+            <div class="rtp-row"><span>RTP Hari Ini</span><span class="rtp-value">94,18%</span></div>
+            <div class="rtp-track"><div class="rtp-fill" style="width:94.18%"></div></div>
+            <a class="play-button" href="https://landaktotoforza.com/slot777/daftar-vip/" target="_blank" rel="nofollow noopener">Main Sekarang</a>
+          </div>
+        </article>
+
+        <article class="game-card">
+          <div class="game-media">
+            <amp-img layout="responsive" width="215" height="145" src="https://dsuown9evwz4y.cloudfront.net/Images/providers/SLOT88/vswayswkngblck.webp?v=20250528" alt="Wukong - Black Scatter"></amp-img>
+          </div>
+          <div class="game-content">
+            <h2 class="game-name">Wukong - Black Scatter</h2>
+            <div class="rtp-row"><span>RTP Hari Ini</span><span class="rtp-value">93,77%</span></div>
+            <div class="rtp-track"><div class="rtp-fill" style="width:93.77%"></div></div>
+            <a class="play-button" href="https://landaktotoforza.com/slot777/daftar-vip/" target="_blank" rel="nofollow noopener">Main Sekarang</a>
+          </div>
+        </article>
+
+        <article class="game-card">
+          <div class="game-media">
+            <amp-img layout="responsive" width="215" height="145" src="https://dsuown9evwz4y.cloudfront.net/Images/providers/PLAYTECH/pop_001378cc_qsp.webp?v=20250528" alt="Sticky Bandits Thunder Rail"></amp-img>
+          </div>
+          <div class="game-content">
+            <h2 class="game-name">Sticky Bandits Thunder Rail</h2>
+            <div class="rtp-row"><span>RTP Hari Ini</span><span class="rtp-value">95,99%</span></div>
+            <div class="rtp-track"><div class="rtp-fill" style="width:95.99%"></div></div>
+            <a class="play-button" href="https://landaktotoforza.com/slot777/daftar-vip/" target="_blank" rel="nofollow noopener">Main Sekarang</a>
+          </div>
+        </article>
+
+        <article class="game-card">
+          <div class="game-media">
+            <amp-img layout="responsive" width="215" height="145" src="https://dsuown9evwz4y.cloudfront.net/Images/providers/SLOT88/vs20gacorx.webp?v=20250528" alt="Bang Gacor 1000"></amp-img>
+          </div>
+          <div class="game-content">
+            <h2 class="game-name">Bang Gacor 1000</h2>
+            <div class="rtp-row"><span>RTP Hari Ini</span><span class="rtp-value">97,30%</span></div>
+            <div class="rtp-track"><div class="rtp-fill" style="width:97.30%"></div></div>
+            <a class="play-button" href="https://landaktotoforza.com/slot777/daftar-vip/" target="_blank" rel="nofollow noopener">Main Sekarang</a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section-card" aria-labelledby="contact-title">
+      <div class="section-heading">
+        <div class="heading-title" id="contact-title"><span class="heading-icon">✦</span>Pusat Bantuan</div>
+        <span class="heading-link">Online 24 Jam</span>
+      </div>
+      <div class="contact-grid">
+        <a class="contact-button" href="https://secure.livechatenterprise.com/licence/12243237/v2/open_chat.cgi" target="_blank" rel="nofollow noopener"><span class="contact-icon">C</span>Live Chat</a>
+        <a class="contact-button" href="https://landaktotoforza.com/slot777/daftar-vip/" target="_blank" rel="nofollow noopener"><span class="contact-icon">W</span>WhatsApp</a>
+      </div>
+    </section>
+
+    <section class="section-card" aria-labelledby="bank-title">
+      <div class="section-heading">
+        <div class="heading-title" id="bank-title"><span class="heading-icon">✓</span>Status Bank & E-Wallet</div>
+        <span class="heading-link">Semua Online</span>
+      </div>
+
+      <div class="bank-grid">
+        <div class="bank-card bank-bca"><div class="bank-brand"><span class="bank-mark">BCA</span><span class="bank-name">BCA<span class="bank-type">Bank</span></span></div><div class="bank-status">Online</div></div>
+        <div class="bank-card bank-mandiri"><div class="bank-brand"><span class="bank-mark">M</span><span class="bank-name">Mandiri<span class="bank-type">Bank</span></span></div><div class="bank-status">Online</div></div>
+        <div class="bank-card bank-bri"><div class="bank-brand"><span class="bank-mark">BRI</span><span class="bank-name">BRI<span class="bank-type">Bank</span></span></div><div class="bank-status">Online</div></div>
+        <div class="bank-card bank-bni"><div class="bank-brand"><span class="bank-mark">BNI</span><span class="bank-name">BNI<span class="bank-type">Bank</span></span></div><div class="bank-status">Online</div></div>
+        <div class="bank-card bank-danamon"><div class="bank-brand"><span class="bank-mark">D</span><span class="bank-name">Danamon<span class="bank-type">Bank</span></span></div><div class="bank-status">Online</div></div>
+        <div class="bank-card bank-cimb"><div class="bank-brand"><span class="bank-mark">C</span><span class="bank-name">CIMB Niaga<span class="bank-type">Bank</span></span></div><div class="bank-status">Online</div></div>
+        <div class="bank-card bank-permata"><div class="bank-brand"><span class="bank-mark">P</span><span class="bank-name">Permata<span class="bank-type">Bank</span></span></div><div class="bank-status">Online</div></div>
+        <div class="bank-card bank-ovo"><div class="bank-brand"><span class="bank-mark">O</span><span class="bank-name">OVO<span class="bank-type">E-Wallet</span></span></div><div class="bank-status">Online</div></div>
+        <div class="bank-card bank-gopay"><div class="bank-brand"><span class="bank-mark">G</span><span class="bank-name">GoPay<span class="bank-type">E-Wallet</span></span></div><div class="bank-status">Online</div></div>
+        <div class="bank-card bank-dana"><div class="bank-brand"><span class="bank-mark">D</span><span class="bank-name">DANA<span class="bank-type">E-Wallet</span></span></div><div class="bank-status">Online</div></div>
+        <div class="bank-card bank-linkaja"><div class="bank-brand"><span class="bank-mark">L</span><span class="bank-name">LinkAja<span class="bank-type">E-Wallet</span></span></div><div class="bank-status">Online</div></div>
+        <div class="bank-card bank-qris"><div class="bank-brand"><span class="bank-mark">QR</span><span class="bank-name">QRIS<span class="bank-type">Pembayaran</span></span></div><div class="bank-status">Online</div></div>
+      </div>
+
+      <footer class="footer-copy">
+        <strong>LANDAKTOTO</strong><br>
+        Copyright 2026 LANDAKTOTO • All Rights Reserved Seo ANEKUAN TEAM IN HERE.
+      </footer>
+    </section>
+  </main>
+
+  <nav class="fixed-nav" aria-label="Navigasi cepat">
+    <a class="nav-button" href="https://landaktotoforza.com/slot777/daftar-vip/" target="_blank" rel="nofollow noopener"><strong>↪</strong>Login</a>
+    <a class="nav-button nav-primary" href="https://landaktotoforza.com/slot777/daftar-vip/" target="_blank" rel="nofollow noopener"><strong>★</strong>Daftar</a>
+    <a class="nav-button" href="https://landaktotoforza.com/slot777/daftar-vip/" target="_blank" rel="nofollow noopener"><strong>●</strong>Chat</a>
+  </nav>
+</body>
+</html>
