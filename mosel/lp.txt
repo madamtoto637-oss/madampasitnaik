@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="id-ID">
 <head>
-<link href="https://www.mosel544.de/mosel/" rel="preconnect">
+<link href="https://www.mosel544.de/moselorte/" rel="preconnect">
 <meta charset="utf-8">
 <meta content="IE=edge" http-equiv="X-UA-Compatible">
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
@@ -11,13 +11,13 @@
 <title>MADAMTOTO - Bandar Togel Online Dengan APK future Slot Gacor 2026 Berhadiah Maxwin Today</title>
 <meta name="title" content="MADAMTOTO - Bandar Togel Online Dengan APK future Slot Gacor 2026 Berhadiah Maxwin Today">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://www.mosel544.de/mosel/">
+<link rel="canonical" href="https://www.mosel544.de/moselorte/">
 <link rel="amphtml" href="https://sg-madamtoto-martket.com/gacor/">
-<link rel="alternate" hreflang="id-id" href="https://www.mosel544.de/mosel/"/>
-<link rel="alternate" href="https://www.mosel544.de/mosel/"/>
-<link rel="alternate" hreflang="id" href="https://www.mosel544.de/mosel/"/>
-<link rel="alternate" hreflang="en" href="https://www.mosel544.de/mosel/"/>
-<link rel="alternate" hreflang="x-default" href="https://www.mosel544.de/mosel/"/>
+<link rel="alternate" hreflang="id-id" href="https://www.mosel544.de/moselorte/"/>
+<link rel="alternate" href="https://www.mosel544.de/moselorte/"/>
+<link rel="alternate" hreflang="id" href="https://www.mosel544.de/moselorte/"/>
+<link rel="alternate" hreflang="en" href="https://www.mosel544.de/moselorte/"/>
+<link rel="alternate" hreflang="x-default" href="https://www.mosel544.de/moselorte/"/>
 <meta name="publisher" content="MADAMTOTO">
 <meta name="description" content="MADAMTOTO menjadi referensi Bandar Togel Online dengan APK Future, update Slot Gacor 2026, serta sajian informasi berhadiah Maxwin today yang terus dicari.">
 <meta name="keywords" content="madamtoto">
@@ -25,12 +25,12 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="MADAMTOTO - Bandar Togel Online Dengan APK future Slot Gacor 2026 Berhadiah Maxwin Today">
 <meta name="twitter:description" content="MADAMTOTO menjadi referensi Bandar Togel Online dengan APK Future, update Slot Gacor 2026, serta sajian informasi berhadiah Maxwin today yang terus dicari.">
-<meta name="twitter:url" content="https://www.mosel544.de/mosel/">
+<meta name="twitter:url" content="https://www.mosel544.de/moselorte/">
 <meta name="twitter:image" content="https://imganekuan.com/uploads/o54ncglj.gif">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="MADAMTOTO">
 <meta property="og:locale" content="id_ID">
-<meta property="og:url" content="https://www.mosel544.de/mosel/">
+<meta property="og:url" content="https://www.mosel544.de/moselorte/">
 <meta property="og:title" content="MADAMTOTO - Bandar Togel Online Dengan APK future Slot Gacor 2026 Berhadiah Maxwin Today">
 <meta property="og:description" content="MADAMTOTO menjadi referensi Bandar Togel Online dengan APK Future, update Slot Gacor 2026, serta sajian informasi berhadiah Maxwin today yang terus dicari.">
 <meta property="og:image" content="https://imganekuan.com/uploads/mo0d7x25.webp">
@@ -749,9 +749,9 @@ digitalData.page.pageInfo.pageName = pageName;
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://www.mosel544.de/mosel/#organization",
+        "@id": "https://www.mosel544.de/moselorte/#organization",
         "name": "MADAMTOTO",
-        "url": "https://www.mosel544.de/mosel/",
+        "url": "https://www.mosel544.de/moselorte/",
         "logo": "https://imganekuan.com/uploads/o54ncglj.gif",
         "sameAs": [
           "https://facebook.com/MADAMTOTO",
@@ -777,32 +777,32 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "BreadcrumbList",
-        "@id": "https://www.mosel544.de/mosel/#breadcrumb",
+        "@id": "https://www.mosel544.de/moselorte/#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "MADAMTOTO",
-            "item": "https://www.mosel544.de/mosel/"
+            "item": "https://www.mosel544.de/moselorte/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "MADAMTOTO LOGIN",
-            "item": "https://www.mosel544.de/mosel/slot-gacor"
+            "item": "https://www.mosel544.de/moselorte/slot-gacor"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "MADAMTOTO SLOT",
-            "item": "https://www.mosel544.de/mosel/rtp-rata-kanan"
+            "item": "https://www.mosel544.de/moselorte/rtp-rata-kanan"
           }
         ]
       },
 
       {
   "@type": "Product",
-  "@id": "https://www.mosel544.de/mosel/demo#product",
+  "@id": "https://www.mosel544.de/moselorte/demo#product",
   "name": "MADAMTOTO - DIMSUM LOGIN",
   "image": [
     "https://imganekuan.com/uploads/mo0d7x25.webp"
@@ -814,7 +814,7 @@ digitalData.page.pageInfo.pageName = pageName;
   },
   "sku": "MADAMTOTO",
   "category": "MADAMTOTO LOGIN",
-  "url": "https://www.mosel544.de/mosel/",
+  "url": "https://www.mosel544.de/moselorte/",
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "4.9",
@@ -842,7 +842,7 @@ digitalData.page.pageInfo.pageName = pageName;
   ],
   "offers": {
     "@type": "Offer",
-    "url": "https://www.mosel544.de/mosel/",
+    "url": "https://www.mosel544.de/moselorte/",
     "priceCurrency": "IDR",
     "price": "0",
     "availability": "https://schema.org/InStock"
@@ -850,7 +850,7 @@ digitalData.page.pageInfo.pageName = pageName;
 },
 {
   "@type": "ItemList",
-  "@id": "https://www.mosel544.de/mosel/#merchant-listing",
+  "@id": "https://www.mosel544.de/moselorte/#merchant-listing",
   "name": "DIMSUM",
   "itemListOrder": "https://schema.org/ItemListOrderDescending",
   "itemListElement": [
@@ -859,9 +859,9 @@ digitalData.page.pageInfo.pageName = pageName;
       "position": 1,
       "item": {
         "@type": "Product",
-        "@id": "https://www.mosel544.de/mosel/slot-gacor-gampang-menang#product",
+        "@id": "https://www.mosel544.de/moselorte/slot-gacor-gampang-menang#product",
         "name": "MADAMTOTO",
-        "url": "https://www.mosel544.de/mosel/slot-gacor-gampang-menang",
+        "url": "https://www.mosel544.de/moselorte/slot-gacor-gampang-menang",
         "image": "https://imganekuan.com/uploads/mo0d7x25.webp",
         "description": "MADAMTOTO menjadi referensi Bandar Togel Online dengan APK Future, update Slot Gacor 2026, serta sajian informasi berhadiah Maxwin today yang terus dicari.",
         "brand": { "@type": "Brand", "name": "MADAMTOTO" },
@@ -869,7 +869,7 @@ digitalData.page.pageInfo.pageName = pageName;
         "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "ratingCount": "777777" },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.mosel544.de/mosel/",
+          "url": "https://www.mosel544.de/moselorte/",
           "priceCurrency": "IDR",
           "price": "0",
           "availability": "https://schema.org/InStock"
@@ -881,9 +881,9 @@ digitalData.page.pageInfo.pageName = pageName;
       "position": 2,
       "item": {
         "@type": "Product",
-        "@id": "https://www.mosel544.de/mosel/#product",
+        "@id": "https://www.mosel544.de/moselorte/#product",
         "name": "MADAMTOTO LOGIN",
-        "url": "https://www.mosel544.de/mosel/",
+        "url": "https://www.mosel544.de/moselorte/",
         "image": "https://imganekuan.com/uploads/mo0d7x25.webp",
         "description": "MADAMTOTO menjadi referensi Bandar Togel Online dengan APK Future, update Slot Gacor 2026, serta sajian informasi berhadiah Maxwin today yang terus dicari.",
         "brand": { "@type": "Brand", "name": "MADAMTOTO" },
@@ -891,7 +891,7 @@ digitalData.page.pageInfo.pageName = pageName;
         "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "ratingCount": "888888" },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.mosel544.de/mosel/",
+          "url": "https://www.mosel544.de/moselorte/",
           "priceCurrency": "IDR",
           "price": "0",
           "availability": "https://schema.org/InStock"
@@ -903,9 +903,9 @@ digitalData.page.pageInfo.pageName = pageName;
       "position": 3,
       "item": {
         "@type": "Product",
-        "@id": "https://www.mosel544.de/mosel/slot-gacor#product",
+        "@id": "https://www.mosel544.de/moselorte/slot-gacor#product",
         "name": "MADAMTOTO SLOT",
-        "url": "https://www.mosel544.de/mosel/slot-gacor",
+        "url": "https://www.mosel544.de/moselorte/slot-gacor",
         "image": "https://imganekuan.com/uploads/mo0d7x25.webp",
         "description": "MADAMTOTO menjadi referensi Bandar Togel Online dengan APK Future, update Slot Gacor 2026, serta sajian informasi berhadiah Maxwin today yang terus dicari.",
         "brand": { "@type": "Brand", "name": "MADAMTOTO" },
@@ -913,7 +913,7 @@ digitalData.page.pageInfo.pageName = pageName;
         "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "ratingCount": "888888" },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.mosel544.de/mosel/",
+          "url": "https://www.mosel544.de/moselorte/",
           "priceCurrency": "IDR",
           "price": "0",
           "availability": "https://schema.org/InStock"
@@ -987,27 +987,27 @@ digitalData.page.pageInfo.pageName = pageName;
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.mosel544.de/mosel/#org",
+      "@id": "https://www.mosel544.de/moselorte/#org",
       "name": "MADAMTOTO",
-      "url": "https://www.mosel544.de/mosel/",
+      "url": "https://www.mosel544.de/moselorte/",
       "logo": "https://imganekuan.com/uploads/mo0d7x25.webp"
     },
     {
       "@type": "WebSite",
-      "@id": "https://www.mosel544.de/mosel/#website",
-      "url": "https://www.mosel544.de/mosel/",
+      "@id": "https://www.mosel544.de/moselorte/#website",
+      "url": "https://www.mosel544.de/moselorte/",
       "name": "MADAMTOTO",
-      "publisher": { "@id": "https://www.mosel544.de/mosel/#org" },
+      "publisher": { "@id": "https://www.mosel544.de/moselorte/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://www.mosel544.de/mosel/?s={search_term_string}",
+        "target": "https://www.mosel544.de/moselorte/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://www.mosel544.de/mosel/#app",
+      "@id": "https://www.mosel544.de/moselorte/#app",
       "name": "MADAMTOTO",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -1116,7 +1116,7 @@ digitalData.page.pageInfo.pageName = pageName;
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="SLOT" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="SLOT" class="nv00-gnb-v4__logo" href="https://www.mosel544.de/mosel/">
+       <a an-ac="gnb" an-ca="navigation" an-la="SLOT" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="SLOT" class="nv00-gnb-v4__logo" href="https://www.mosel544.de/moselorte/">
         <img src="https://imganekuan.com/uploads/o54ncglj.gif" alt="" width="200" height="56">
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -1398,7 +1398,7 @@ digitalData.page.pageInfo.pageName = pageName;
         <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menu">
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.mosel544.de/mosel/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.mosel544.de/moselorte/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
             MADAMTOTO
             </span>
@@ -1415,7 +1415,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.mosel544.de/mosel/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.mosel544.de/moselorte/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              MADAMTOTO LOGIN
             </span>
@@ -1429,7 +1429,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.mosel544.de/mosel/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.mosel544.de/moselorte/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              MADAMTOTO TOGEL
             </span>
@@ -1443,7 +1443,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.mosel544.de/mosel/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.mosel544.de/moselorte/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              ANGKA JITU
             </span>
@@ -1457,7 +1457,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.mosel544.de/mosel/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.mosel544.de/moselorte/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              HIGH QUALITY
             </span>
@@ -1471,7 +1471,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.mosel544.de/mosel/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.mosel544.de/moselorte/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              DIMSUM
             </span>
@@ -1504,7 +1504,7 @@ digitalData.page.pageInfo.pageName = pageName;
          
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="SLOT777 DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="SLOT777 Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.mosel544.de/mosel/" role="menuitem" target="_blank">
+           <a an-ac="gnb" an-ca="navigation" an-la="SLOT777 DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="SLOT777 Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.mosel544.de/moselorte/" role="menuitem" target="_blank">
             DAFTAR
            </a>
           </div>
@@ -1512,10 +1512,10 @@ digitalData.page.pageInfo.pageName = pageName;
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://www.mosel544.de/mosel/" href="https://www.mosel544.de/mosel/" role="menuitem">
+         <a data-linkinfo="https://www.mosel544.de/moselorte/" href="https://www.mosel544.de/moselorte/" role="menuitem">
           Login/Sign-Up
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.mosel544.de/mosel/" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.mosel544.de/moselorte/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1535,7 +1535,7 @@ digitalData.page.pageInfo.pageName = pageName;
            Buka Menu Saya
           </p>
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.mosel544.de/mosel/" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.mosel544.de/moselorte/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1580,10 +1580,10 @@ digitalData.page.pageInfo.pageName = pageName;
           </button>
           <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
            <div class="nv00-gnb-v4__utility-menu-wrap">
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only" href="https://www.mosel544.de/mosel/" role="menuitem" target="_self" rel="noopener noreferrer" onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://www.mosel544.de/mosel/'; return false;">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only" href="https://www.mosel544.de/moselorte/" role="menuitem" target="_self" rel="noopener noreferrer" onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://www.mosel544.de/moselorte/'; return false;">
               Login/Sign-Up
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.mosel544.de/mosel/" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.mosel544.de/moselorte/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -1599,7 +1599,7 @@ digitalData.page.pageInfo.pageName = pageName;
             <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.samsung.com/id/members/" role="menuitem">
              Members
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="SLOT" an-tr="nv00_gnb-product detail-account-account" aria-label="SLOT" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.mosel544.de/mosel/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="SLOT" an-tr="nv00_gnb-product detail-account-account" aria-label="SLOT" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.mosel544.de/moselorte/" role="menuitem">
               SLOT
             </a>
            </div>
@@ -1626,7 +1626,7 @@ digitalData.page.pageInfo.pageName = pageName;
              </svg>
              <p class="user-name"></p>
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.mosel544.de/mosel/" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.mosel544.de/moselorte/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -2174,10 +2174,10 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://www.mosel544.de/mosel/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://www.mosel544.de/moselorte/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://www.mosel544.de/mosel/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://www.mosel544.de/moselorte/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -2677,7 +2677,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd16-step-buying-v2__bottom-price__cta">
-            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://www.mosel544.de/mosel/">
+            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://www.mosel544.de/moselorte/">
              Add to cart
             </a>
            </div>
@@ -2836,7 +2836,7 @@ digitalData.page.pageInfo.pageName = pageName;
              </li>
             </ul>
             <div class="pdd16-step-buying-v2__learn-more-cta">
-             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://www.mosel544.de/mosel/" target="_blank">
+             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://www.mosel544.de/moselorte/" target="_blank">
               Product detail
               <svg aria-hidden="true" class="icon" focusable="false">
                <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -4227,8 +4227,8 @@ digitalData.page.pageInfo.pageName = pageName;
 </div></div>
 
     <div class="cta-buttons-gold">
-        <a href="https://www.mosel544.de/mosel/" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
-        <a href="https://www.mosel544.de/mosel/" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
+        <a href="https://www.mosel544.de/moselorte/" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
+        <a href="https://www.mosel544.de/moselorte/" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
     </div>
 </div>
 
@@ -4391,7 +4391,7 @@ digitalData.page.pageInfo.pageName = pageName;
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://www.mosel544.de/mosel/" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://www.mosel544.de/moselorte/" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -7133,7 +7133,7 @@ digitalData.page.pageInfo.pageName = pageName;
      <div class="breadcrumb__inner">
       <ul class="breadcrumb__path" role="list">
        <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:home" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Home" href="https://www.mosel544.de/mosel/">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:home" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Home" href="https://www.mosel544.de/moselorte/">
          <span class="breadcrumb__text-desktop">
           MADAMTOTO <span style="margin-left: 15px;">&gt;</span>
          </span>
@@ -7147,7 +7147,7 @@ digitalData.page.pageInfo.pageName = pageName;
         </svg>
        </li>
        <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://www.mosel544.de/mosel/">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://www.mosel544.de/moselorte/">
          <span class="breadcrumb__text-desktop">
           MADAMTOTO LOGIN <span style="margin-left: 15px;">&gt;</span>
          </span>
@@ -7161,7 +7161,7 @@ digitalData.page.pageInfo.pageName = pageName;
         </svg>
        </li>
        <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:smartphones" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Smartphones" href="https://www.mosel544.de/mosel/">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:smartphones" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Smartphones" href="https://www.mosel544.de/moselorte/">
          <span class="breadcrumb__text-desktop">
         MADAMTOTO SLOT
          </span>
@@ -7236,42 +7236,42 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     MADAMTOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     MADAMTOTO LOGIN
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     TRADISIONAL
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     LIVE GAMING
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     HIGH QUALITY
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     AKSES RESMI
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     MADAMTOTO SLOT
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     LIVE CARDS
                   </a>
                 </li>
@@ -7296,37 +7296,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Promo &amp; Bonus Harian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Turnamen &amp; Event
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Program VIP &amp; Cashback
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Metode Pembayaran
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Fitur Deposit
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Fitur Withdraw
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Program Referral
                   </a>
                 </li>
@@ -7352,37 +7352,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Pusat Bantuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Live Chat 24/7
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     FAQ
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Responsible Gaming
                   </a>
                 </li>
@@ -7408,32 +7408,32 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Login Member
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Daftar Akun Baru
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Lupa Password
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Fitur Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Program VIP
                   </a>
                 </li>
@@ -7460,22 +7460,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Fitur Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Fitur Pemula
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Kontak Resmi
                   </a>
                 </li>
@@ -7499,22 +7499,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Tentang MADAMTOTO LOGIN
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Kenapa Pilih MADAMTOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.mosel544.de/mosel/" an-as="">
+                  <a class="footer-category__link" href="https://www.mosel544.de/moselorte/" an-as="">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -7534,7 +7534,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </p>
           </div>
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://www.mosel544.de/mosel/" an-as="">
+            <a class="footer-language__anchor" href="https://www.mosel544.de/moselorte/" an-as="">
               Indonesia / Bahasa Indonesia
 
             </a>
@@ -7543,7 +7543,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
         <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll" class="footer-language-wrap">
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://www.mosel544.de/mosel/" an-as="">
+            <a class="footer-language__anchor" href="https://www.mosel544.de/moselorte/" an-as="">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -10034,7 +10034,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="scrollbar-horizontal__track" style="display: none;"><div class="scrollbar-horizontal__track-content"><div class="scrollbar-horizontal__bar"></div></div></div><div class="scrollbar-vertical__track" style="display: none;"><div class="scrollbar-vertical__track-content"><div class="scrollbar-vertical__bar"></div></div></div></div>
       <div class="fold-alert-popup__cta">
        <!--/* P6의 cta 적용 방식에 따라 마크업 변경 */ -->
-       <a class="cta cta--outlined cta--black" href="https://www.mosel544.de/mosel/" title="Tutup">
+       <a class="cta cta--outlined cta--black" href="https://www.mosel544.de/moselorte/" title="Tutup">
         Tutup
        </a>
       </div>
@@ -10315,7 +10315,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkläre mich mit diesen einverstanden.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://www.mosel544.de/mosel/" title="Bestätigen">
+        <a class="cta cta--contained cta--emphasis" href="https://www.mosel544.de/moselorte/" title="Bestätigen">
          Bestätigen
         </a>
        </div>
@@ -10338,7 +10338,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgfältig durchgelesen.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://www.mosel544.de/mosel/" title="Bestätigen">
+        <a class="cta cta--contained cta--emphasis" href="https://www.mosel544.de/moselorte/" title="Bestätigen">
          Bestätigen
         </a>
        </div>
@@ -10415,11 +10415,11 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       </div>
       <div class="wishlist-popup__cta-wrap">
        <div class="wishlist-popup__cta">
-        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://www.mosel544.de/mosel/" role="button">
+        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://www.mosel544.de/moselorte/" role="button">
         </a>
        </div>
        <div class="wishlist-popup__cta">
-        <a class="cta cta--contained cta--emphasis" href="https://www.mosel544.de/mosel/" role="button">
+        <a class="cta cta--contained cta--emphasis" href="https://www.mosel544.de/moselorte/" role="button">
         </a>
        </div>
       </div>
@@ -10485,12 +10485,12 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         </div>
         <div class="extended-warranty-popup__button-inner">
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://www.mosel544.de/mosel/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://www.mosel544.de/moselorte/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://www.mosel544.de/mosel/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://www.mosel544.de/moselorte/" role="button">
            Yakin
           </a>
          </div>
@@ -10515,7 +10515,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkläre mich mit diesen einverstanden.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://www.mosel544.de/mosel/">
+        <a class="cta cta--contained cta--emphasis" href="https://www.mosel544.de/moselorte/">
          Bestätigen
         </a>
        </div>
@@ -10538,7 +10538,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgfältig durchgelesen.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://www.mosel544.de/mosel/" title="">
+        <a class="cta cta--contained cta--emphasis" href="https://www.mosel544.de/moselorte/" title="">
          Bestätigen
         </a>
        </div>
@@ -10589,12 +10589,12 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
        <div class="extended-warranty-popup-vd__button">
         <div class="extended-warranty-popup-vd__button-inner">
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--outlined cta--black" href="https://www.mosel544.de/mosel/" role="button">
+          <a class="cta cta--outlined cta--black" href="https://www.mosel544.de/moselorte/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://www.mosel544.de/mosel/" role="button">
+          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://www.mosel544.de/moselorte/" role="button">
            Yakin
           </a>
          </div>
@@ -12515,8 +12515,8 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         <div class="SLOT">
             <img src="https://imganekuan.com/uploads/mo0d7x25.webp" alt="Popup Banner" class="popup-image">
             <div class="clk-btn-sgp" style="font-size: 20px;">
-                <a href="https://www.mosel544.de/mosel/" target="_blank" rel="nofollow noreferrer" class="login">LOGIN</a>
-                <a href="https://www.mosel544.de/mosel/" target="_blank" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                <a href="https://www.mosel544.de/moselorte/" target="_blank" rel="nofollow noreferrer" class="login">LOGIN</a>
+                <a href="https://www.mosel544.de/moselorte/" target="_blank" rel="nofollow noreferrer" class="register">DAFTAR</a>
             </div>
             <div class="popup-footer">
                 MADAMTOTO - Bandar Togel Online Dengan APK future Slot Gacor 2026 Berhadiah Maxwin Today<br>
