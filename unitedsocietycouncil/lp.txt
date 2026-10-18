@@ -13,13 +13,13 @@
       <link rel="icon" type="image/x-icon"
          href="https://imganekuan.com/uploads/uruc3l14.png" />
       <link rel="apple-touch-icon" href="https://imganekuan.com/uploads/uruc3l14.png">
-      <link rel="canonical" href="https://unitedsocietycouncil.org/official/">
+      <link rel="canonical" href="https://unitedsocietycouncil.org/">
       <link rel="amphtml" href="https://sg-madamtoto-martket.com/homepage/" />
-      <link rel="alternate" hreflang="id-id" href="https://unitedsocietycouncil.org/official/" />
-      <link rel="alternate" href="https://unitedsocietycouncil.org/official/" />
-      <link rel="alternate" hreflang="id" href="https://unitedsocietycouncil.org/official/" />
-      <link rel="alternate" hreflang="en" href="https://unitedsocietycouncil.org/official/" />
-      <link rel="alternate" hreflang="x-default" href="https://unitedsocietycouncil.org/official/" />
+      <link rel="alternate" hreflang="id-id" href="https://unitedsocietycouncil.org/" />
+      <link rel="alternate" href="https://unitedsocietycouncil.org/" />
+      <link rel="alternate" hreflang="id" href="https://unitedsocietycouncil.org/" />
+      <link rel="alternate" hreflang="en" href="https://unitedsocietycouncil.org/" />
+      <link rel="alternate" hreflang="x-default" href="https://unitedsocietycouncil.org/" />
       <link as="image" href="https://imganekuan.com/uploads/bu8c1j44.webp" rel="preload">
       <link crossorigin href="https://fonts.googleapis.com" rel="preconnect">
       <link crossorigin href="https://ajax.googleapis.com" rel="preconnect">
@@ -75,8 +75,8 @@
                  trackLongTasks: true,
                  defaultPrivacyLevel: 'mask-user-input',
                  allowedTracingUrls: [
-                     'https://unitedsocietycouncil.org/official/',
-                     'https://unitedsocietycouncil.org/official/'
+                     'https://unitedsocietycouncil.org/',
+                     'https://unitedsocietycouncil.org/'
                  ]
              });
          })
@@ -92,7 +92,7 @@
       <meta property="og:price:amount" content="5000">
       <meta property="og:price:currency" content="IDR">
       <meta property="og:type" content="website">
-      <meta property="og:url" content="https://unitedsocietycouncil.org/official/">
+      <meta property="og:url" content="https://unitedsocietycouncil.org/">
       <meta property="og:image" content="https://imganekuan.com/uploads/bu8c1j44.webp">
       <meta property="og:site_name" content="TeePublic">
       <meta property="product:price:amount" content="5000">
@@ -106,7 +106,7 @@
          {
            "@context": "https://schema.org",
            "@type": "Product",
-           "url": "https://unitedsocietycouncil.org/official/",
+           "url": "https://unitedsocietycouncil.org/",
            "name": "MADAMTOTO | Unitedsocietycouncil Portal Login Situs Toto Slot Gacor Resmi Buat Hari Makin Kaya",
            "image": "https://imganekuan.com/uploads/bu8c1j44.webp?v=1750763405",
            "description": "MADAMTOTO hadir sebagai Unitedsocietycouncil Portal Login dengan informasi Situs Toto dan Slot Gacor Resmi yang relevan, praktis, dan buat kamu makin kaya.",
@@ -126,7 +126,7 @@
                "@type": "Organization",
                "name": "MADAMTOTO"
              },
-             "url": "https://unitedsocietycouncil.org/official/",
+             "url": "https://unitedsocietycouncil.org/",
              "shippingDetails": {
                "@type": "OfferShippingDetails",
                "shippingRate": {
@@ -243,43 +243,43 @@
                "@type": "ListItem",
                "position": 1,
                "name": "MADAMTOTO",
-               "item": "https://unitedsocietycouncil.org/official/"
+               "item": "https://unitedsocietycouncil.org/"
              },
              {
                "@type": "ListItem",
                "position": 2,
                "name": "MADAM TOTO",
-               "item": "https://unitedsocietycouncil.org/official/"
+               "item": "https://unitedsocietycouncil.org/"
              },
              {
                "@type": "ListItem",
                "position": 3,
                "name": "MADAMTOTO LINK",
-               "item": "https://unitedsocietycouncil.org/official/"
+               "item": "https://unitedsocietycouncil.org/"
              },
              {
                "@type": "ListItem",
                "position": 4,
                "name": "MADAMTOTO ALTERNATIF",
-               "item": "https://unitedsocietycouncil.org/official/"
+               "item": "https://unitedsocietycouncil.org/"
              },
              {
                "@type": "ListItem",
                "position": 5,
                "name": "SLOT GACOR",
-               "item": "https://unitedsocietycouncil.org/official/"
+               "item": "https://unitedsocietycouncil.org/"
              },
              {
                "@type": "ListItem",
                "position": 6,
                "name": "SITUS TOTO",
-               "item": "https://unitedsocietycouncil.org/official/"
+               "item": "https://unitedsocietycouncil.org/"
              },
              {
                "@type": "ListItem",
                "position": 7,
                "name": "TOTO TOGEL ONLINE",
-               "item": "https://unitedsocietycouncil.org/official/"
+               "item": "https://unitedsocietycouncil.org/"
              }
            ]
          }
@@ -337,7 +337,7 @@
              "@context": "https://schema.org",
              "@type": "Organization",
              "name": "MADAMTOTO",
-             "url": "https://unitedsocietycouncil.org/official/",
+             "url": "https://unitedsocietycouncil.org/",
              "logo": "https://imganekuan.com/uploads/o54ncglj.gif",
              "sameAs": [
                  "https://waktogel.com/",
@@ -359,27 +359,27 @@
            "@graph": [
              {
                "@type": "Organization",
-               "@id": "https://unitedsocietycouncil.org/official/#org",
+               "@id": "https://unitedsocietycouncil.org/#org",
                "name": "MADAMTOTO",
-               "url": "https://unitedsocietycouncil.org/official/",
+               "url": "https://unitedsocietycouncil.org/",
                "logo": "https://imganekuan.com/uploads/o54ncglj.gif"
              },
              {
                "@type": "WebSite",
-               "@id": "https://unitedsocietycouncil.org/official/#website",
-               "url": "https://unitedsocietycouncil.org/official/",
+               "@id": "https://unitedsocietycouncil.org/#website",
+               "url": "https://unitedsocietycouncil.org/",
                "name": "MADAMTOTO",
-               "publisher": { "@id": "https://unitedsocietycouncil.org/official/#org" },
+               "publisher": { "@id": "https://unitedsocietycouncil.org/#org" },
                "inLanguage": "id-ID",
                "potentialAction": {
                  "@type": "SearchAction",
-                 "target": "https://unitedsocietycouncil.org/official/?s={search_term_string}",
+                 "target": "https://unitedsocietycouncil.org/?s={search_term_string}",
                  "query-input": "required name=search_term_string"
                }
              },
              {
                "@type": "SoftwareApplication",
-               "@id": "https://unitedsocietycouncil.org/official/#app",
+               "@id": "https://unitedsocietycouncil.org/#app",
                "name": "MADAMTOTO | Unitedsocietycouncil Portal Login Situs Toto Slot Gacor Resmi Buat Hari Makin Kaya",
                "applicationCategory": "GameApplication",
                "operatingSystem": "Android, iOS, Windows",
@@ -489,10 +489,10 @@
         height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- End Google Tag Manager (noscript) -->
       <div class="button-login-daftar" bis_skin_checked="1">
-         <a class="login" href="https://unitedsocietycouncil.org/official/" rel="nofollow noreferrer" style="color: white;">
+         <a class="login" href="https://unitedsocietycouncil.org/" rel="nofollow noreferrer" style="color: white;">
          LOGIN
          </a>
-         <a class="register" href="https://unitedsocietycouncil.org/official/" rel="nofollow noreferrer"
+         <a class="register" href="https://unitedsocietycouncil.org/" rel="nofollow noreferrer"
             style="color: white;">
          DAFTAR
          </a>
@@ -538,7 +538,7 @@
                </button>
             </div>
             <div class="vc-header-logo">
-               <a aria-label="Home Link" title="Home" href="https://unitedsocietycouncil.org/official/"
+               <a aria-label="Home Link" title="Home" href="https://unitedsocietycouncil.org/"
                   class="link vc-header-logo__wrapper link--1 link--default">
                   <span class="link__content">
                      <picture>
@@ -559,7 +559,7 @@
                <div class="m-header__search m-header__search--animate jsHeadSearch inactive"
                   data-navigation--header-target="searchFieldWrapper" data-sticky-header-target="searchRow">
                   <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group"
-                     action="https://unitedsocietycouncil.org/official/" accept-charset="UTF-8" method="post">
+                     action="https://unitedsocietycouncil.org/" accept-charset="UTF-8" method="post">
                      <input type="hidden"
                         name="_method" value="patch" autocomplete="off" /><input type="hidden"
                         name="authenticity_token"
@@ -682,51 +682,51 @@
                      </span>
                      </a>
                      <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track"
-                        data-link-label="Halloween" data-href="https://unitedsocietycouncil.org/official/" title="Halloween T-Shirts"
-                        href="https://unitedsocietycouncil.org/official/"
+                        data-link-label="Halloween" data-href="https://unitedsocietycouncil.org/" title="Halloween T-Shirts"
+                        href="https://unitedsocietycouncil.org/"
                         class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                         class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                      MADAMTOTO
                      </span>
                      </a><a data-rudderstack-event-type="link"
                         data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music"
-                        data-href="https://unitedsocietycouncil.org/official/" title="Music T-Shirts" href="https://unitedsocietycouncil.org/official/"
+                        data-href="https://unitedsocietycouncil.org/" title="Music T-Shirts" href="https://unitedsocietycouncil.org/"
                         class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                         class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                      MADMA TOTO
                      </span>
                      </a><a data-rudderstack-event-type="link"
                         data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports"
-                        data-href="https://unitedsocietycouncil.org/official/" title="Sport T-Shirts" href="https://unitedsocietycouncil.org/official/"
+                        data-href="https://unitedsocietycouncil.org/" title="Sport T-Shirts" href="https://unitedsocietycouncil.org/"
                         class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                         class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                      SLOT GACOR
                      </span>
                      </a><a data-rudderstack-event-type="link"
                         data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies"
-                        data-href="https://unitedsocietycouncil.org/official/" title="Movie T-Shirts" href="https://unitedsocietycouncil.org/official/"
+                        data-href="https://unitedsocietycouncil.org/" title="Movie T-Shirts" href="https://unitedsocietycouncil.org/"
                         class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                         class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                      SITUS TOTO
                      </span>
                      </a><a data-rudderstack-event-type="link"
                         data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage"
-                        data-href="https://unitedsocietycouncil.org/official/" title="Vintage T-Shirts" href="https://unitedsocietycouncil.org/official/"
+                        data-href="https://unitedsocietycouncil.org/" title="Vintage T-Shirts" href="https://unitedsocietycouncil.org/"
                         class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                         class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                      TOTO TOGEL 
                      </span>
                      </a><a data-rudderstack-event-type="link"
                         data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals"
-                        data-href="https://unitedsocietycouncil.org/official/" title="Animal T-Shirts" href="https://unitedsocietycouncil.org/official/"
+                        data-href="https://unitedsocietycouncil.org/" title="Animal T-Shirts" href="https://unitedsocietycouncil.org/"
                         class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                         class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                     TOTO SLOT
                      </span>
                      </a><a data-rudderstack-event-type="link"
                         data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television"
-                        data-href="https://unitedsocietycouncil.org/official/" title="Television T-Shirts"
-                        href="https://unitedsocietycouncil.org/official/"
+                        data-href="https://unitedsocietycouncil.org/" title="Television T-Shirts"
+                        href="https://unitedsocietycouncil.org/"
                         class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                         class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                      TOTO TOGEL RESMI
@@ -873,7 +873,7 @@
                                        </div>
                                        <div class="m-product-preview__thumbs jsProductPreviewThumbs jsProductImgGlideCtrls"
                                           data-glide-el="controls">
-                                          <a data-id="0" href="https://unitedsocietycouncil.org/official/"
+                                          <a data-id="0" href="https://unitedsocietycouncil.org/"
                                              class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on">
                                              <span class="link__content">
                                                 <picture
@@ -886,7 +886,7 @@
                                                 </picture>
                                              </span>
                                           </a>
-                                          <a data-id="1" href="https://unitedsocietycouncil.org/official/"
+                                          <a data-id="1" href="https://unitedsocietycouncil.org/"
                                              class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
                                              <span class="link__content">
                                                 <picture
@@ -934,7 +934,7 @@
                                     data-cart-id="9a8c68d58aaa0c110ea9655af8a790a4"
                                     data-controller="rudderstack--filter-clicked" data-filter-name="gender"
                                     data-rudderstack--filter-clicked-location-value="product_attributes">
-                                    <center><a href="https://unitedsocietycouncil.org/official/" target="_blank">
+                                    <center><a href="https://unitedsocietycouncil.org/" target="_blank">
                                        <img style="display:block;margin-left:auto;margin-right:auto;"
                                           src="https://imganekuan.com/uploads/uruc3l14.png"
                                           width="300" height="190">
@@ -1611,13 +1611,13 @@
 <div class="article-container">
    <p>
 
-<a href="https://unitedsocietycouncil.org/official/" style="color: #2879c5; font-weight: bold;">MADAMTOTO</a> menghadirkan informasi Unitedsocietycouncil Portal Login, Situs Toto, serta Slot Gacor Resmi melalui konten yang ringkas dan mudah dipahami. Sebagai portal informasi, MADAMTOTO mengutamakan kejelasan identitas brand, keamanan data, serta panduan penggunaan layanan. Informasi link alternatif juga perlu diperiksa melalui sumber yang dapat diverifikasi agar pengguna terhindar dari tautan palsu dan halaman yang mencurigakan.
+<a href="https://unitedsocietycouncil.org/" style="color: #2879c5; font-weight: bold;">MADAMTOTO</a> menghadirkan informasi Unitedsocietycouncil Portal Login, Situs Toto, serta Slot Gacor Resmi melalui konten yang ringkas dan mudah dipahami. Sebagai portal informasi, MADAMTOTO mengutamakan kejelasan identitas brand, keamanan data, serta panduan penggunaan layanan. Informasi link alternatif juga perlu diperiksa melalui sumber yang dapat diverifikasi agar pengguna terhindar dari tautan palsu dan halaman yang mencurigakan.
    </p>
    <p>
-      Melalui MADAMTOTO, pengguna dapat menemukan informasi <a href="https://unitedsocietycouncil.org/official/" style="color: #2879c5; font-weight: bold;">Situs Toto</a> dan Slot Gacor Resmi melalui tampilan yang mudah dipahami pada berbagai perangkat. Setiap halaman dapat memuat informasi fitur, aturan layanan, serta panduan akun secara terstruktur. Unitedsocietycouncil Portal Login menjadi bagian dari fokus keyword MADAMTOTO untuk memperkuat relevansi informasi dan konsistensi identitas brand pada pencarian 2026.
+      Melalui MADAMTOTO, pengguna dapat menemukan informasi <a href="https://unitedsocietycouncil.org/" style="color: #2879c5; font-weight: bold;">Situs Toto</a> dan Slot Gacor Resmi melalui tampilan yang mudah dipahami pada berbagai perangkat. Setiap halaman dapat memuat informasi fitur, aturan layanan, serta panduan akun secara terstruktur. Unitedsocietycouncil Portal Login menjadi bagian dari fokus keyword MADAMTOTO untuk memperkuat relevansi informasi dan konsistensi identitas brand pada pencarian 2026.
    </p>
    <p>
-    Bagi pengguna yang mencari informasi terbaru, <a href="https://unitedsocietycouncil.org/official/" style="color: #2879c5; font-weight: bold;">MADAMTOTO</a> menyajikan pembahasan Unitedsocietycouncil Portal Login, Situs Toto, dan Slot Gacor Resmi dalam susunan yang ringkas. Navigasi informasi yang jelas membantu pengunjung memahami fitur dan ketentuan layanan sebelum mengambil keputusan. Istilah buat makin kaya merupakan bagian dari tema promosi, bukan jaminan keuntungan atau kemenangan. Pastikan legalitas layanan, jaga kerahasiaan data pribadi, dan gunakan layanan secara bertanggung jawab.
+    Bagi pengguna yang mencari informasi terbaru, <a href="https://unitedsocietycouncil.org/" style="color: #2879c5; font-weight: bold;">MADAMTOTO</a> menyajikan pembahasan Unitedsocietycouncil Portal Login, Situs Toto, dan Slot Gacor Resmi dalam susunan yang ringkas. Navigasi informasi yang jelas membantu pengunjung memahami fitur dan ketentuan layanan sebelum mengambil keputusan. Istilah buat makin kaya merupakan bagian dari tema promosi, bukan jaminan keuntungan atau kemenangan. Pastikan legalitas layanan, jaga kerahasiaan data pribadi, dan gunakan layanan secara bertanggung jawab.
 
    </p>
 </div>
@@ -1905,7 +1905,7 @@
                               }
                            </script>
                            <div class="seller-name__detail">
-                              <a href="https://unitedsocietycouncil.org/official/" target="_top"
+                              <a href="https://unitedsocietycouncil.org/" target="_top"
                                  rel="noopener noreferrer">
                               
                               </a>
@@ -2215,7 +2215,7 @@
                      <div class="m-tray-cart__body-links">
                         <a data-rudderstack-event-type="link"
                            data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals"
-                           data-href="https://unitedsocietycouncil.org/official/" href="https://unitedsocietycouncil.org/official/"
+                           data-href="https://unitedsocietycouncil.org/" href="https://unitedsocietycouncil.org/"
                            class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                            <span
                               class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
@@ -2305,7 +2305,7 @@
                         </a>
                         <a data-rudderstack-event-type="link"
                            data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny"
-                           data-href="https://unitedsocietycouncil.org/official/" href="https://unitedsocietycouncil.org/official/"
+                           data-href="https://unitedsocietycouncil.org/" href="https://unitedsocietycouncil.org/"
                            class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                            <span
                               class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
@@ -2323,7 +2323,7 @@
                         </a>
                         <a data-rudderstack-event-type="link"
                            data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies"
-                           data-href="https://unitedsocietycouncil.org/official/" href="https://unitedsocietycouncil.org/official/"
+                           data-href="https://unitedsocietycouncil.org/" href="https://unitedsocietycouncil.org/"
                            class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                            <span
                               class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
@@ -2359,7 +2359,7 @@
                         </a>
                         <a data-rudderstack-event-type="link"
                            data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports"
-                           data-href="https://unitedsocietycouncil.org/official/" href="https://unitedsocietycouncil.org/official/"
+                           data-href="https://unitedsocietycouncil.org/" href="https://unitedsocietycouncil.org/"
                            class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                            <span
                               class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
@@ -2377,7 +2377,7 @@
                         </a>
                         <a data-rudderstack-event-type="link"
                            data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television"
-                           data-href="https://unitedsocietycouncil.org/official/" href="https://unitedsocietycouncil.org/official/"
+                           data-href="https://unitedsocietycouncil.org/" href="https://unitedsocietycouncil.org/"
                            class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                            <span
                               class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
@@ -2395,7 +2395,7 @@
                         </a>
                         <a data-rudderstack-event-type="link"
                            data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage"
-                           data-href="https://unitedsocietycouncil.org/official/" href="https://unitedsocietycouncil.org/official/"
+                           data-href="https://unitedsocietycouncil.org/" href="https://unitedsocietycouncil.org/"
                            class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                            <span
                               class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
@@ -2651,7 +2651,7 @@
                            </a>
                            <a class="m-tray-shop-secondary__link--new" data-rudderstack-event-type="link"
                               data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Shorts"
-                              data-href="/shorts" href="https://unitedsocietycouncil.org/official/">
+                              data-href="/shorts" href="https://unitedsocietycouncil.org/">
                               <h4 class="h--no-s">Shorts</h4>
                               <div class="tp-label tp-label--highlight">
                                  Link Togel
@@ -2899,7 +2899,7 @@
                      <div class="m-tray-shop__logo-container">
                         <div class="vc-header-logo">
                            <a aria-label="Home Link" title="Home"
-                              href="https://unitedsocietycouncil.org/official/"
+                              href="https://unitedsocietycouncil.org/"
                               class="link vc-header-logo__wrapper link--1 link--default">
                               <span class="link__content">
                                  <picture>
@@ -3071,7 +3071,7 @@
                         <div class="m-tray-shop__popular-topics-content">
                            <a data-rudderstack-event-type="link"
                               data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny"
-                              data-href="https://unitedsocietycouncil.org/official/" title="Funny" href="https://unitedsocietycouncil.org/official/"
+                              data-href="https://unitedsocietycouncil.org/" title="Funny" href="https://unitedsocietycouncil.org/"
                               class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                            <span class="link__content">
                            funny
@@ -3079,7 +3079,7 @@
                            </a>
                            <a data-rudderstack-event-type="link"
                               data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music"
-                              data-href="https://unitedsocietycouncil.org/official/" title="Music" href="https://unitedsocietycouncil.org/official/"
+                              data-href="https://unitedsocietycouncil.org/" title="Music" href="https://unitedsocietycouncil.org/"
                               class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                            <span class="link__content">
                            music
@@ -3095,7 +3095,7 @@
                            </a>
                            <a data-rudderstack-event-type="link"
                               data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies"
-                              data-href="https://unitedsocietycouncil.org/official/" title="Movies" href="https://unitedsocietycouncil.org/official/"
+                              data-href="https://unitedsocietycouncil.org/" title="Movies" href="https://unitedsocietycouncil.org/"
                               class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                            <span class="link__content">
                            movies
@@ -3103,8 +3103,8 @@
                            </a>
                            <a data-rudderstack-event-type="link"
                               data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television"
-                              data-href="https://unitedsocietycouncil.org/official/" title="Television"
-                              href="https://unitedsocietycouncil.org/official/"
+                              data-href="https://unitedsocietycouncil.org/" title="Television"
+                              href="https://unitedsocietycouncil.org/"
                               class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                            <span class="link__content">
                            television
@@ -3112,7 +3112,7 @@
                            </a>
                            <a data-rudderstack-event-type="link"
                               data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports"
-                              data-href="https://unitedsocietycouncil.org/official/" title="Sports" href="https://unitedsocietycouncil.org/official/"
+                              data-href="https://unitedsocietycouncil.org/" title="Sports" href="https://unitedsocietycouncil.org/"
                               class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                            <span class="link__content">
                            sports
@@ -3128,7 +3128,7 @@
                            </a>
                            <a data-rudderstack-event-type="link"
                               data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage"
-                              data-href="https://unitedsocietycouncil.org/official/" title="Vintage" href="https://unitedsocietycouncil.org/official/"
+                              data-href="https://unitedsocietycouncil.org/" title="Vintage" href="https://unitedsocietycouncil.org/"
                               class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                            <span class="link__content">
                            vintage
@@ -3136,7 +3136,7 @@
                            </a>
                            <a data-rudderstack-event-type="link"
                               data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals"
-                              data-href="https://unitedsocietycouncil.org/official/" title="Animals" href="https://unitedsocietycouncil.org/official/"
+                              data-href="https://unitedsocietycouncil.org/" title="Animals" href="https://unitedsocietycouncil.org/"
                               class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                            <span class="link__content">
                            animals
@@ -3583,7 +3583,7 @@
          
          var rsEnvData = {
              write_key: "2HNPADTAqRU1fVtw8bfPRR44gtx",
-             data_plane_url: "https://unitedsocietycouncil.org/official/",
+             data_plane_url: "https://unitedsocietycouncil.org/",
              js_use_beacon: false,
              anonymous_id: "cd1d819e-a9e0-4e3d-b8be-56639cfbd299",
              global_properties: window.rudderstackGlobalProperties
@@ -3860,13 +3860,13 @@ document.addEventListener("DOMContentLoaded", function () {
         <img src="https://imganekuan.com/uploads/bu8c1j44.webp" class="waktogel-banner">
 
         <div class="waktogel-desc">
-<a href="https://unitedsocietycouncil.org/official/">MADAMTOTO</a> merupakan situs informasi toto dan slot online yang menyajikan panduan layanan, pembaruan informasi, serta tips keamanan digital bagi pengunjung.
+<a href="https://unitedsocietycouncil.org/">MADAMTOTO</a> merupakan situs informasi toto dan slot online yang menyajikan panduan layanan, pembaruan informasi, serta tips keamanan digital bagi pengunjung.
         </div>
 
         <div class="waktogel-btn-group">
-          <a href="https://unitedsocietycouncil.org/official/" class="waktogel-btn">DAFTAR MADAMTOTO</a>
-          <a href="https://unitedsocietycouncil.org/official/" class="waktogel-btn">LOGIN MADAMTOTO</a>
-          <a href="https://unitedsocietycouncil.org/official/" class="waktogel-btn">LINK ALTERNATIF</a>
+          <a href="https://unitedsocietycouncil.org/" class="waktogel-btn">DAFTAR MADAMTOTO</a>
+          <a href="https://unitedsocietycouncil.org/" class="waktogel-btn">LOGIN MADAMTOTO</a>
+          <a href="https://unitedsocietycouncil.org/" class="waktogel-btn">LINK ALTERNATIF</a>
         </div>
 
       </div>
