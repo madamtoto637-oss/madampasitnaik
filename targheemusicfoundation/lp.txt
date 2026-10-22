@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html lang="id-ID">
 <head>
-<link href="https://www.targheemusicfoundation.org/square/" rel="preconnect">
+<link href="https://www.targheemusicfoundation.org/stio/" rel="preconnect">
 <meta charset="utf-8">
 <meta content="IE=edge" http-equiv="X-UA-Compatible">
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
 <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0" name="viewport">
 <title>MADAMTOTO - Bandar Togel Terpercaya Dengan Panduan Data Angka Result Terakurat</title>
 <meta name="title" content="MADAMTOTO - Bandar Togel Terpercaya Dengan Panduan Data Angka Result Terakurat">
-<link rel="canonical" href="https://www.targheemusicfoundation.org/square/" />
+<link rel="canonical" href="https://www.targheemusicfoundation.org/stio/" />
 <link rel="amphtml" href="https://square.madamtoto-live.com/" />
 <link rel="alternate" hreflang="id-id" href="https://square.madamtoto-live.com/" />
 <link rel="alternate" href="https://square.madamtoto-live.com/" />
 <link rel="alternate" hreflang="id" href="https://square.madamtoto-live.com/" />
-<link rel="alternate" hreflang="en" href="https://www.targheemusicfoundation.org/square/"/>
-<link rel="alternate" hreflang="x-default" href="https://www.targheemusicfoundation.org/square/"/>
+<link rel="alternate" hreflang="en" href="https://www.targheemusicfoundation.org/stio/"/>
+<link rel="alternate" hreflang="x-default" href="https://www.targheemusicfoundation.org/stio/"/>
 <meta name="publisher" content="MADAMTOTO">
 <meta name="description" content="MADAMTOTO menyajikan informasi data angka dan result togel dengan pembahasan terarah, catatan hasil, serta panduan membaca data secara lebih jelas.">
 <meta name="keywords" content="MADAMTOTO, toto togel, toto slot, togel 4d, toto 4d, slot gacor, slot">
@@ -22,13 +22,13 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="MADAMTOTO - Bandar Togel Terpercaya Dengan Panduan Data Angka Result Terakurat">
 <meta name="twitter:description" content="MADAMTOTO menyajikan informasi data angka dan result togel dengan pembahasan terarah, catatan hasil, serta panduan membaca data secara lebih jelas.">
-<meta name="twitter:url" content="https://www.targheemusicfoundation.org/square/">
+<meta name="twitter:url" content="https://www.targheemusicfoundation.org/stio/">
 <meta name="twitter:image" content="https://imganekuan.com/uploads/o54ncglj.gif">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="MADAMTOTO">
 <meta property="og:locale" content="id_ID">
 <meta name="robots" content="index, follow">
-<meta property="og:url" content="https://www.targheemusicfoundation.org/square/">
+<meta property="og:url" content="https://www.targheemusicfoundation.org/stio/">
 <meta property="og:title" content="MADAMTOTO - Bandar Togel Terpercaya Dengan Panduan Data Angka Result Terakurat">
 <meta property="og:description" content="MADAMTOTO menyajikan informasi data angka dan result togel dengan pembahasan terarah, catatan hasil, serta panduan membaca data secara lebih jelas.">
 <meta property="og:image" content="https://imganekuan.com/uploads/3pkxf8bx.webp">
@@ -692,9 +692,9 @@ digitalData.page.pageInfo.pageName = pageName;
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.targheemusicfoundation.org/square/#organization",
+      "@id": "https://www.targheemusicfoundation.org/stio/#organization",
       "name": "MADAMTOTO",
-      "url": "https://www.targheemusicfoundation.org/square/",
+      "url": "https://www.targheemusicfoundation.org/stio/",
       "logo": "https://imganekuan.com/uploads/o54ncglj.gif",
       "image": "https://imganekuan.com/uploads/3pkxf8bx.webp",
       "contactPoint": {
@@ -707,25 +707,25 @@ digitalData.page.pageInfo.pageName = pageName;
     },
     {
       "@type": "WebSite",
-      "@id": "https://www.targheemusicfoundation.org/square/#website",
-      "url": "https://www.targheemusicfoundation.org/square/",
+      "@id": "https://www.targheemusicfoundation.org/stio/#website",
+      "url": "https://www.targheemusicfoundation.org/stio/",
       "name": "MADAMTOTO",
       "publisher": {
-        "@id": "https://www.targheemusicfoundation.org/square/#organization"
+        "@id": "https://www.targheemusicfoundation.org/stio/#organization"
       },
       "inLanguage": "id-ID"
     },
     {
       "@type": "WebPage",
-      "@id": "https://www.targheemusicfoundation.org/square/#webpage",
-      "url": "https://www.targheemusicfoundation.org/square/",
+      "@id": "https://www.targheemusicfoundation.org/stio/#webpage",
+      "url": "https://www.targheemusicfoundation.org/stio/",
       "name": "MADAMTOTO - Bandar Togel Terpercaya Dengan Panduan Data Angka Result Terakurat",
       "description": "MADAMTOTO menyajikan informasi data angka dan result togel dengan pembahasan terarah, catatan hasil, serta panduan membaca data secara lebih jelas.",
       "isPartOf": {
-        "@id": "https://www.targheemusicfoundation.org/square/#website"
+        "@id": "https://www.targheemusicfoundation.org/stio/#website"
       },
       "about": {
-        "@id": "https://www.targheemusicfoundation.org/square/#organization"
+        "@id": "https://www.targheemusicfoundation.org/stio/#organization"
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
@@ -735,7 +735,7 @@ digitalData.page.pageInfo.pageName = pageName;
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://www.targheemusicfoundation.org/square/#breadcrumb",
+      "@id": "https://www.targheemusicfoundation.org/stio/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
@@ -747,37 +747,37 @@ digitalData.page.pageInfo.pageName = pageName;
           "@type": "ListItem",
           "position": 2,
           "name": "SLOT",
-          "item": "https://www.targheemusicfoundation.org/square/"
+          "item": "https://www.targheemusicfoundation.org/stio/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "SITUS SLOT",
-          "item": "https://www.targheemusicfoundation.org/square/"
+          "item": "https://www.targheemusicfoundation.org/stio/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "SLOT GACOR",
-          "item": "https://www.targheemusicfoundation.org/square/"
+          "item": "https://www.targheemusicfoundation.org/stio/"
         }
       ]
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://www.targheemusicfoundation.org/square/#app",
+      "@id": "https://www.targheemusicfoundation.org/stio/#app",
       "name": "MADAMTOTO",
-      "url": "https://www.targheemusicfoundation.org/square/",
+      "url": "https://www.targheemusicfoundation.org/stio/",
       "image": "https://imganekuan.com/uploads/3pkxf8bx.webp",
       "description": "MADAMTOTO menyajikan informasi data angka dan result togel dengan pembahasan terarah, catatan hasil, serta panduan membaca data secara lebih jelas.",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
       "publisher": {
-        "@id": "https://www.targheemusicfoundation.org/square/#organization"
+        "@id": "https://www.targheemusicfoundation.org/stio/#organization"
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.targheemusicfoundation.org/square/",
+        "url": "https://www.targheemusicfoundation.org/stio/",
         "price": "0",
         "priceCurrency": "IDR",
         "availability": "https://schema.org/InStock"
@@ -799,7 +799,7 @@ digitalData.page.pageInfo.pageName = pageName;
   "@graph": [
     {
       "@type": "FAQPage",
-      "@id": "https://www.targheemusicfoundation.org/square/#faq",
+      "@id": "https://www.targheemusicfoundation.org/stio/#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -845,7 +845,7 @@ digitalData.page.pageInfo.pageName = pageName;
     },
     {
       "@type": "ItemList",
-      "@id": "https://www.targheemusicfoundation.org/square/#testimoni-map",
+      "@id": "https://www.targheemusicfoundation.org/stio/#testimoni-map",
       "name": "Testimoni MADAMTOTO",
       "itemListElement": [
         {
@@ -867,7 +867,7 @@ digitalData.page.pageInfo.pageName = pageName;
               "worstRating": "1"
             },
             "itemReviewed": {
-              "@id": "https://www.targheemusicfoundation.org/square/#MADAMTOTO-product-review"
+              "@id": "https://www.targheemusicfoundation.org/stio/#MADAMTOTO-product-review"
             }
           }
         },
@@ -890,7 +890,7 @@ digitalData.page.pageInfo.pageName = pageName;
               "worstRating": "1"
             },
             "itemReviewed": {
-              "@id": "https://www.targheemusicfoundation.org/square/#MADAMTOTO-product-review"
+              "@id": "https://www.targheemusicfoundation.org/stio/#MADAMTOTO-product-review"
             }
           }
         },
@@ -913,7 +913,7 @@ digitalData.page.pageInfo.pageName = pageName;
               "worstRating": "1"
             },
             "itemReviewed": {
-              "@id": "https://www.targheemusicfoundation.org/square/#MADAMTOTO-product-review"
+              "@id": "https://www.targheemusicfoundation.org/stio/#MADAMTOTO-product-review"
             }
           }
         },
@@ -936,7 +936,7 @@ digitalData.page.pageInfo.pageName = pageName;
               "worstRating": "1"
             },
             "itemReviewed": {
-              "@id": "https://www.targheemusicfoundation.org/square/#MADAMTOTO-product-review"
+              "@id": "https://www.targheemusicfoundation.org/stio/#MADAMTOTO-product-review"
             }
           }
         },
@@ -959,7 +959,7 @@ digitalData.page.pageInfo.pageName = pageName;
               "worstRating": "1"
             },
             "itemReviewed": {
-              "@id": "https://www.targheemusicfoundation.org/square/#MADAMTOTO-product-review"
+              "@id": "https://www.targheemusicfoundation.org/stio/#MADAMTOTO-product-review"
             }
           }
         },
@@ -982,7 +982,7 @@ digitalData.page.pageInfo.pageName = pageName;
               "worstRating": "1"
             },
             "itemReviewed": {
-              "@id": "https://www.targheemusicfoundation.org/square/#TOTO MADAMTOTO-product-review"
+              "@id": "https://www.targheemusicfoundation.org/stio/#TOTO MADAMTOTO-product-review"
             }
           }
         }
@@ -1429,7 +1429,7 @@ digitalData.page.pageInfo.pageName = pageName;
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="SLOT" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="SLOT" class="nv00-gnb-v4__logo" href="https://www.targheemusicfoundation.org/square/">
+       <a an-ac="gnb" an-ca="navigation" an-la="SLOT" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="SLOT" class="nv00-gnb-v4__logo" href="https://www.targheemusicfoundation.org/stio/">
         <img src="https://imganekuan.com/uploads/o54ncglj.gif" alt="" width="200" height="125">
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -1513,7 +1513,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
     <li class="nv00-gnb-v4__l0-menu">
         <div class="nv00-gnb-v4__l0-menu-title">
-            <a class="nv00-gnb-v4__l0-menu-link" href="https://www.targheemusicfoundation.org/square/" role="menuitem">
+            <a class="nv00-gnb-v4__l0-menu-link" href="https://www.targheemusicfoundation.org/stio/" role="menuitem">
                 <span class="nv00-gnb-v4__l0-menu-text">TOTO MADAMTOTO</span>
             </a>
         </div>
@@ -1521,7 +1521,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
     <li class="nv00-gnb-v4__l0-menu">
         <div class="nv00-gnb-v4__l0-menu-title">
-            <a class="nv00-gnb-v4__l0-menu-link" href="https://www.targheemusicfoundation.org/square/" role="menuitem">
+            <a class="nv00-gnb-v4__l0-menu-link" href="https://www.targheemusicfoundation.org/stio/" role="menuitem">
                 <span class="nv00-gnb-v4__l0-menu-text">SLOT</span>
             </a>
         </div>
@@ -1529,7 +1529,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
     <li class="nv00-gnb-v4__l0-menu">
         <div class="nv00-gnb-v4__l0-menu-title">
-            <a class="nv00-gnb-v4__l0-menu-link" href="https://www.targheemusicfoundation.org/square/" role="menuitem">
+            <a class="nv00-gnb-v4__l0-menu-link" href="https://www.targheemusicfoundation.org/stio/" role="menuitem">
                 <span class="nv00-gnb-v4__l0-menu-text">TOTO 4D</span>
             </a>
         </div>
@@ -1537,7 +1537,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
     <li class="nv00-gnb-v4__l0-menu">
         <div class="nv00-gnb-v4__l0-menu-title">
-            <a class="nv00-gnb-v4__l0-menu-link" href="https://www.targheemusicfoundation.org/square/" role="menuitem">
+            <a class="nv00-gnb-v4__l0-menu-link" href="https://www.targheemusicfoundation.org/stio/" role="menuitem">
                 <span class="nv00-gnb-v4__l0-menu-text">SITUS SLOT</span>
             </a>
         </div>
@@ -1545,7 +1545,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
     <li class="nv00-gnb-v4__l0-menu">
         <div class="nv00-gnb-v4__l0-menu-title">
-            <a class="nv00-gnb-v4__l0-menu-link" href="https://www.targheemusicfoundation.org/square/" role="menuitem">
+            <a class="nv00-gnb-v4__l0-menu-link" href="https://www.targheemusicfoundation.org/stio/" role="menuitem">
                 <span class="nv00-gnb-v4__l0-menu-text">TOTO TOGEL</span>
             </a>
         </div>
@@ -1553,7 +1553,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
     <li class="nv00-gnb-v4__l0-menu">
         <div class="nv00-gnb-v4__l0-menu-title">
-            <a class="nv00-gnb-v4__l0-menu-link" href="https://www.targheemusicfoundation.org/square/" role="menuitem">
+            <a class="nv00-gnb-v4__l0-menu-link" href="https://www.targheemusicfoundation.org/stio/" role="menuitem">
                 <span class="nv00-gnb-v4__l0-menu-text">SLOT GACOR</span>
             </a>
         </div>
@@ -1561,7 +1561,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
     <li class="nv00-gnb-v4__l0-menu">
         <div class="nv00-gnb-v4__l0-menu-title">
-            <a class="nv00-gnb-v4__l0-menu-link" href="https://www.targheemusicfoundation.org/square/" role="menuitem">
+            <a class="nv00-gnb-v4__l0-menu-link" href="https://www.targheemusicfoundation.org/stio/" role="menuitem">
                 <span class="nv00-gnb-v4__l0-menu-text">TOGEL 4D</span>
             </a>
         </div>
@@ -1569,7 +1569,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
     <li class="nv00-gnb-v4__l0-menu">
         <div class="nv00-gnb-v4__l0-menu-title">
-            <a class="nv00-gnb-v4__l0-menu-link" href="https://www.targheemusicfoundation.org/square/" role="menuitem">
+            <a class="nv00-gnb-v4__l0-menu-link" href="https://www.targheemusicfoundation.org/stio/" role="menuitem">
                 <span class="nv00-gnb-v4__l0-menu-text">SLOT MAXWIN</span>
             </a>
         </div>
@@ -1577,7 +1577,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
     <li class="nv00-gnb-v4__l0-menu">
         <div class="nv00-gnb-v4__l0-menu-title">
-            <a class="nv00-gnb-v4__l0-menu-link" href="https://www.targheemusicfoundation.org/square/" role="menuitem">
+            <a class="nv00-gnb-v4__l0-menu-link" href="https://www.targheemusicfoundation.org/stio/" role="menuitem">
                 <span class="nv00-gnb-v4__l0-menu-text">SLOT TERPERCAYA</span>
             </a>
         </div>
@@ -2051,10 +2051,10 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://www.targheemusicfoundation.org/square/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://www.targheemusicfoundation.org/stio/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://www.targheemusicfoundation.org/square/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://www.targheemusicfoundation.org/stio/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -2522,7 +2522,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd16-step-buying-v2__bottom-price__cta">
-            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://www.targheemusicfoundation.org/square/">
+            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://www.targheemusicfoundation.org/stio/">
              Add to cart
             </a>
            </div>
@@ -2681,7 +2681,7 @@ digitalData.page.pageInfo.pageName = pageName;
              </li>
             </ul>
             <div class="pdd16-step-buying-v2__learn-more-cta">
-             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://www.targheemusicfoundation.org/square/" target="_blank">
+             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://www.targheemusicfoundation.org/stio/" target="_blank">
               Product detail
               <svg aria-hidden="true" class="icon" focusable="false">
                <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -4174,7 +4174,7 @@ digitalData.page.pageInfo.pageName = pageName;
        
        <!-- N -->
        <script data-id="MADAMTOTO-product-review-schema" data-object-type="Product" data-type="seo" type="application/ld+json">
-{"@context":"https://schema.org","@type":"Product","@id":"https://www.targheemusicfoundation.org/square/#MADAMTOTO-product-review","name":"MADAMTOTO - Bandar Togel Terpercaya Dengan Panduan Data Angka Result Terakurat","image":"https://imganekuan.com/uploads/3pkxf8bx.webp","description":"MADAMTOTO menyajikan informasi data angka dan result togel dengan pembahasan terarah, catatan hasil, serta panduan membaca data secara lebih jelas.","brand":{"@type":"Brand","name":"MADAMTOTO"},"sku":"MADAMTOTO-SLOT-ONLINE","url":"https://www.targheemusicfoundation.org/square/","offers":{"@type":"Offer","url":"https://www.targheemusicfoundation.org/square/","priceCurrency":"IDR","price":"0","availability":"https://schema.org/InStock"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":"6","bestRating":"5","worstRating":"1"},"review":[{"@type":"Review","author":{"@type":"Person","name":"Chow Yun Fat - Jakarta"},"datePublished":"2026-06-02","reviewBody":"MADAMTOTO menjadi salah satu situs slot gacor maxwin yang saya gunakan karena menyediakan akses slot online dengan pilihan game slot terlengkap. Tampilan situsnya mudah dipahami, proses bermain gacor, dan informasi seputar rtp slot terbaru juga tersaji akurat.","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5","worstRating":"1"}},{"@type":"Review","author":{"@type":"Person","name":"Chow Sing Sing - Surabaya"},"datePublished":"2026-06-03","reviewBody":"Menurut saya, MADAMTOTO cocok untuk pemain yang mencari situs slot gacor terbaru dengan akses praktis. Pilihan slot maxwin tersedia banyak serta link slot online gacor maupun slot88 resmi mudah ditemukan dalam satu platform.","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5","worstRating":"1"}},{"@type":"Review","author":{"@type":"Person","name":"Ng Man-tat - Medan"},"datePublished":"2026-06-04","reviewBody":"Saya cukup terbantu dengan MADAMTOTO karena situs gacor ini menghadirkan bocoran informasi seputar game slot, slot online, dan slot gacor gampang menang. Situs slot terbaru ini banyak membantu saya dalam bidang ekonomi, kareng sering dikasih maxwin.","reviewRating":{"@type":"Rating","ratingValue":"4","bestRating":"5","worstRating":"1"}},{"@type":"Review","author":{"@type":"Person","name":"Cheng Lik Min - Berastagi"},"datePublished":"2026-06-05","reviewBody":"Awalnya saya cuma iseng coba MADAMTOTO karena sering lihat rekomendasinya. Ternyata pilihan game slot online di sini memang banyak dan gampang dicari. Saya juga sering lihat update slot gacor sama bocoran RTP terbaru, jadi lebih enak buat nentuin game yang mau dimainkan.","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5","worstRating":"1"}},{"@type":"Review","author":{"@type":"Person","name":"Leon Lai Ming - Semarang"},"datePublished":"2026-06-07","reviewBody":"Saya kenal MADAMTOTO dari teman yang memang hobi main slot online. Setelah ikut coba beberapa hari, ternyata isinya lengkap, mulai dari slot gacor, slot88 resmi sampai info RTP yang selalu diperbarui. Buat saya semuanya jadi lebih mudah dicari dalam satu tempat.","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5","worstRating":"1"}},{"@type":"Review","author":{"@type":"Person","name":"Wong Fei Hung - Makassar"},"datePublished":"2026-06-09","reviewBody":"Kalau ditanya kenapa masih main di MADAMTOTO, jawabannya karena informasinya lengkap. Saya bisa lihat rekomendasi slot gacor hari ini, pilihan game slot online, sampai bocoran RTP tanpa perlu cari di banyak situs. Jadi lebih hemat waktu dan tinggal fokus main.","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5","worstRating":"1"}}]}
+{"@context":"https://schema.org","@type":"Product","@id":"https://www.targheemusicfoundation.org/stio/#MADAMTOTO-product-review","name":"MADAMTOTO - Bandar Togel Terpercaya Dengan Panduan Data Angka Result Terakurat","image":"https://imganekuan.com/uploads/3pkxf8bx.webp","description":"MADAMTOTO menyajikan informasi data angka dan result togel dengan pembahasan terarah, catatan hasil, serta panduan membaca data secara lebih jelas.","brand":{"@type":"Brand","name":"MADAMTOTO"},"sku":"MADAMTOTO-SLOT-ONLINE","url":"https://www.targheemusicfoundation.org/stio/","offers":{"@type":"Offer","url":"https://www.targheemusicfoundation.org/stio/","priceCurrency":"IDR","price":"0","availability":"https://schema.org/InStock"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":"6","bestRating":"5","worstRating":"1"},"review":[{"@type":"Review","author":{"@type":"Person","name":"Chow Yun Fat - Jakarta"},"datePublished":"2026-06-02","reviewBody":"MADAMTOTO menjadi salah satu situs slot gacor maxwin yang saya gunakan karena menyediakan akses slot online dengan pilihan game slot terlengkap. Tampilan situsnya mudah dipahami, proses bermain gacor, dan informasi seputar rtp slot terbaru juga tersaji akurat.","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5","worstRating":"1"}},{"@type":"Review","author":{"@type":"Person","name":"Chow Sing Sing - Surabaya"},"datePublished":"2026-06-03","reviewBody":"Menurut saya, MADAMTOTO cocok untuk pemain yang mencari situs slot gacor terbaru dengan akses praktis. Pilihan slot maxwin tersedia banyak serta link slot online gacor maupun slot88 resmi mudah ditemukan dalam satu platform.","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5","worstRating":"1"}},{"@type":"Review","author":{"@type":"Person","name":"Ng Man-tat - Medan"},"datePublished":"2026-06-04","reviewBody":"Saya cukup terbantu dengan MADAMTOTO karena situs gacor ini menghadirkan bocoran informasi seputar game slot, slot online, dan slot gacor gampang menang. Situs slot terbaru ini banyak membantu saya dalam bidang ekonomi, kareng sering dikasih maxwin.","reviewRating":{"@type":"Rating","ratingValue":"4","bestRating":"5","worstRating":"1"}},{"@type":"Review","author":{"@type":"Person","name":"Cheng Lik Min - Berastagi"},"datePublished":"2026-06-05","reviewBody":"Awalnya saya cuma iseng coba MADAMTOTO karena sering lihat rekomendasinya. Ternyata pilihan game slot online di sini memang banyak dan gampang dicari. Saya juga sering lihat update slot gacor sama bocoran RTP terbaru, jadi lebih enak buat nentuin game yang mau dimainkan.","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5","worstRating":"1"}},{"@type":"Review","author":{"@type":"Person","name":"Leon Lai Ming - Semarang"},"datePublished":"2026-06-07","reviewBody":"Saya kenal MADAMTOTO dari teman yang memang hobi main slot online. Setelah ikut coba beberapa hari, ternyata isinya lengkap, mulai dari slot gacor, slot88 resmi sampai info RTP yang selalu diperbarui. Buat saya semuanya jadi lebih mudah dicari dalam satu tempat.","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5","worstRating":"1"}},{"@type":"Review","author":{"@type":"Person","name":"Wong Fei Hung - Makassar"},"datePublished":"2026-06-09","reviewBody":"Kalau ditanya kenapa masih main di MADAMTOTO, jawabannya karena informasinya lengkap. Saya bisa lihat rekomendasi slot gacor hari ini, pilihan game slot online, sampai bocoran RTP tanpa perlu cari di banyak situs. Jadi lebih hemat waktu dan tinggal fokus main.","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5","worstRating":"1"}}]}
        </script>
        <!--googleoff: all true-->
        <div class="sdf-component-templates" id="sg-pdh-dynamic-template-assembly">
@@ -4221,7 +4221,7 @@ digitalData.page.pageInfo.pageName = pageName;
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://www.targheemusicfoundation.org/square/" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://www.targheemusicfoundation.org/stio/" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -5953,7 +5953,7 @@ digitalData.page.pageInfo.pageName = pageName;
         <div class="rj-title-divider" aria-hidden="true"></div>
         
         <div class="rj-article-content">
-<p style="text-align: justify;"><a href="https://www.targheemusicfoundation.org/square/"><span style="color: #00ff22;">MADAMTOTO</span></a> menghadirkan informasi seputar panduan data angka dan result togel dengan penyajian terstruktur, pembaruan informasi berkala, serta keterangan sumber yang membantu pengunjung memahami data secara lebih jelas.</p>
+<p style="text-align: justify;"><a href="https://www.targheemusicfoundation.org/stio/"><span style="color: #00ff22;">MADAMTOTO</span></a> menghadirkan informasi seputar panduan data angka dan result togel dengan penyajian terstruktur, pembaruan informasi berkala, serta keterangan sumber yang membantu pengunjung memahami data secara lebih jelas.</p>
         </div>
         <div class="rj-info-grid">
           <div class="rj-info-card"><div class="rj-info-label">Penilaian Pengguna</div><div class="rj-info-value">99.999.999 Pengguna</div></div>
@@ -6097,7 +6097,7 @@ digitalData.page.pageInfo.pageName = pageName;
      <div class="breadcrumb__inner">
       <ul class="breadcrumb__path" role="list">
        <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:home" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Home" href="https://www.targheemusicfoundation.org/square/">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:home" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Home" href="https://www.targheemusicfoundation.org/stio/">
          <span class="breadcrumb__text-desktop">
           MADAMTOTO <span style="margin-left: 15px;">&gt;</span>
          </span>
@@ -6111,7 +6111,7 @@ digitalData.page.pageInfo.pageName = pageName;
         </svg>
        </li>
        <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://www.targheemusicfoundation.org/square/">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://www.targheemusicfoundation.org/stio/">
          <span class="breadcrumb__text-desktop">
           SLOT <span style="margin-left: 15px;">&gt;</span>
          </span>
@@ -6125,7 +6125,7 @@ digitalData.page.pageInfo.pageName = pageName;
         </svg>
        </li>
        <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:smartphones" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Smartphones" href="https://www.targheemusicfoundation.org/square/">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:smartphones" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Smartphones" href="https://www.targheemusicfoundation.org/stio/">
          <span class="breadcrumb__text-desktop">
         SLOT GACOR
          </span>
@@ -6193,14 +6193,14 @@ digitalData.page.pageInfo.pageName = pageName;
     </a>
     <div class="footer-category__list-wrap">
       <ul class="footer-category__list" role="list">
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SLOT</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SLOT ONLINE</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SLOT GACOR</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SITUS SLOT</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SITUS SLOT ONLINE</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">LINK SLOT GACOR</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SLOT GACOR HARI INI</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SLOT ONLINE TERPERCAYA</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SLOT</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SLOT ONLINE</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SLOT GACOR</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SITUS SLOT</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SITUS SLOT ONLINE</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">LINK SLOT GACOR</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SLOT GACOR HARI INI</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SLOT ONLINE TERPERCAYA</a></li>
       </ul>
     </div>
   </div>
@@ -6215,13 +6215,13 @@ digitalData.page.pageInfo.pageName = pageName;
     </a>
     <div class="footer-category__list-wrap">
       <ul class="footer-category__list" role="list">
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">GAME SLOT ONLINE</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SLOT ONLINE GACOR</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SLOT ONLINE HARI INI</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SLOT ONLINE TERBARU</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SLOT ONLINE RESMI</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SLOT ONLINE MUDAH MENANG</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SLOT ONLINE MAXWIN</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">GAME SLOT ONLINE</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SLOT ONLINE GACOR</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SLOT ONLINE HARI INI</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SLOT ONLINE TERBARU</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SLOT ONLINE RESMI</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SLOT ONLINE MUDAH MENANG</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SLOT ONLINE MAXWIN</a></li>
       </ul>
     </div>
   </div>
@@ -6236,13 +6236,13 @@ digitalData.page.pageInfo.pageName = pageName;
     </a>
     <div class="footer-category__list-wrap">
       <ul class="footer-category__list" role="list">
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SLOT GACOR TERBARU</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SLOT GACOR MAXWIN</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SLOT GACOR MALAM INI</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SLOT GACOR GAMPANG MENANG</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SLOT GACOR HARI INI</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SLOT GACOR TERBAIK</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">POLA SLOT GACOR</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SLOT GACOR TERBARU</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SLOT GACOR MAXWIN</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SLOT GACOR MALAM INI</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SLOT GACOR GAMPANG MENANG</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SLOT GACOR HARI INI</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SLOT GACOR TERBAIK</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">POLA SLOT GACOR</a></li>
       </ul>
     </div>
   </div>
@@ -6257,12 +6257,12 @@ digitalData.page.pageInfo.pageName = pageName;
     </a>
     <div class="footer-category__list-wrap">
       <ul class="footer-category__list" role="list">
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SITUS SLOT ONLINE</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SITUS SLOT GACOR</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SITUS SLOT TERBARU</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SITUS SLOT MAXWIN</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">SITUS SLOT88</a></li>
-        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">LINK SLOT88</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SITUS SLOT ONLINE</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SITUS SLOT GACOR</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SITUS SLOT TERBARU</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SITUS SLOT MAXWIN</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">SITUS SLOT88</a></li>
+        <li class="footer-category__item"><a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">LINK SLOT88</a></li>
       </ul>
     </div>
   </div>
@@ -6286,22 +6286,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">
+                  <a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">
                     Fitur Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">
+                  <a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">
                     Fitur Pemula
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">
+                  <a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">
+                  <a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">
                     Kontak Resmi
                   </a>
                 </li>
@@ -6325,22 +6325,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">
+                  <a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">
                     Tentang Slot Online
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">
+                  <a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">
                     Kenapa Pilih MADAMTOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">
+                  <a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.targheemusicfoundation.org/square/" an-as="">
+                  <a class="footer-category__link" href="https://www.targheemusicfoundation.org/stio/" an-as="">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -6360,7 +6360,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </p>
           </div>
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://www.targheemusicfoundation.org/square/" an-as="">
+            <a class="footer-language__anchor" href="https://www.targheemusicfoundation.org/stio/" an-as="">
               Indonesia / Bahasa Indonesia
 
             </a>
@@ -6369,7 +6369,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
         <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll" class="footer-language-wrap">
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://www.targheemusicfoundation.org/square/" an-as="">
+            <a class="footer-language__anchor" href="https://www.targheemusicfoundation.org/stio/" an-as="">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -8853,7 +8853,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="scrollbar-horizontal__track" style="display: none;"><div class="scrollbar-horizontal__track-content"><div class="scrollbar-horizontal__bar"></div></div></div><div class="scrollbar-vertical__track" style="display: none;"><div class="scrollbar-vertical__track-content"><div class="scrollbar-vertical__bar"></div></div></div></div>
       <div class="fold-alert-popup__cta">
        <!--/* P6의 cta 적용 방식에 따라 마크업 변경 */ -->
-       <a class="cta cta--outlined cta--black" href="https://www.targheemusicfoundation.org/square/" title="Tutup">
+       <a class="cta cta--outlined cta--black" href="https://www.targheemusicfoundation.org/stio/" title="Tutup">
         Tutup
        </a>
       </div>
@@ -9134,7 +9134,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkläre mich mit diesen einverstanden.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://www.targheemusicfoundation.org/square/" title="Bestätigen">
+        <a class="cta cta--contained cta--emphasis" href="https://www.targheemusicfoundation.org/stio/" title="Bestätigen">
          Bestätigen
         </a>
        </div>
@@ -9157,7 +9157,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgfältig durchgelesen.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://www.targheemusicfoundation.org/square/" title="Bestätigen">
+        <a class="cta cta--contained cta--emphasis" href="https://www.targheemusicfoundation.org/stio/" title="Bestätigen">
          Bestätigen
         </a>
        </div>
@@ -9234,11 +9234,11 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       </div>
       <div class="wishlist-popup__cta-wrap">
        <div class="wishlist-popup__cta">
-        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://www.targheemusicfoundation.org/square/" role="button">
+        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://www.targheemusicfoundation.org/stio/" role="button">
         </a>
        </div>
        <div class="wishlist-popup__cta">
-        <a class="cta cta--contained cta--emphasis" href="https://www.targheemusicfoundation.org/square/" role="button">
+        <a class="cta cta--contained cta--emphasis" href="https://www.targheemusicfoundation.org/stio/" role="button">
         </a>
        </div>
       </div>
@@ -9304,12 +9304,12 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         </div>
         <div class="extended-warranty-popup__button-inner">
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://www.targheemusicfoundation.org/square/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://www.targheemusicfoundation.org/stio/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://www.targheemusicfoundation.org/square/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://www.targheemusicfoundation.org/stio/" role="button">
            Yakin
           </a>
          </div>
@@ -9334,7 +9334,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkläre mich mit diesen einverstanden.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://www.targheemusicfoundation.org/square/">
+        <a class="cta cta--contained cta--emphasis" href="https://www.targheemusicfoundation.org/stio/">
          Bestätigen
         </a>
        </div>
@@ -9357,7 +9357,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgfältig durchgelesen.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://www.targheemusicfoundation.org/square/" title="">
+        <a class="cta cta--contained cta--emphasis" href="https://www.targheemusicfoundation.org/stio/" title="">
          Bestätigen
         </a>
        </div>
@@ -9408,12 +9408,12 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
        <div class="extended-warranty-popup-vd__button">
         <div class="extended-warranty-popup-vd__button-inner">
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--outlined cta--black" href="https://www.targheemusicfoundation.org/square/" role="button">
+          <a class="cta cta--outlined cta--black" href="https://www.targheemusicfoundation.org/stio/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://www.targheemusicfoundation.org/square/" role="button">
+          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://www.targheemusicfoundation.org/stio/" role="button">
            Yakin
           </a>
          </div>
