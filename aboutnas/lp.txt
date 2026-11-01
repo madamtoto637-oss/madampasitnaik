@@ -50,7 +50,7 @@
 <link rel="icon" type="image/x-icon" href="https://imganekuan.com/uploads/uruc3l14.png">
 <link rel="shortcut icon" type="image/x-icon" href="https://imganekuan.com/uploads/uruc3l14.png">
 <link rel="canonical" href="https://www.aboutnas.de/Links">
-
+<meta name="google-site-verification" content="Z9vButsCB9SsRwmvNkDh4MG7Uj-YQ2LWnDW6oN9t1LU" />
 
 <style>
 body.onestepcheckout-index-index [type=radio] {cursor:pointer;} 
