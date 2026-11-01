@@ -232,7 +232,7 @@ ga('require', 'GTM-KL7BC3L');
 
 </button></div>
 <div class='vc-header__cta'>
-<a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://ministries-promadamtoto.pages.dev/" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
+<a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://dtim-madamtotolink.pages.dev/" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
 <span class='link__content'>
 DAFTAR AKUN
 
@@ -356,9 +356,9 @@ BANDAR SLOT
 
         
                           <div class="n-columns-2">
-                                <a href="https://ministries-promadamtoto.pages.dev/" rel="nofollow noreferrer"
+                                <a href="https://dtim-madamtotolink.pages.dev/" rel="nofollow noreferrer"
                                  class="login">LOGIN</a>
-                               <a href="https://ministries-promadamtoto.pages.dev/" rel="nofollow noreferrer"
+                               <a href="https://dtim-madamtotolink.pages.dev/" rel="nofollow noreferrer"
                                   class="register">DAFTAR</a>
                                 </div>
                              </div>
@@ -655,8 +655,8 @@ Back
 <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
 <div class='m-cart-config__select-label'>
 </div>
-<a href="https://ministries-promadamtoto.pages.dev/" class="btn-x">DAFTAR DISINI</a>
-<a href="https://ministries-promadamtoto.pages.dev/" class="btn-x">LOGIN DISINI</a>
+<a href="https://dtim-madamtotolink.pages.dev/" class="btn-x">DAFTAR DISINI</a>
+<a href="https://dtim-madamtotolink.pages.dev/" class="btn-x">LOGIN DISINI</a>
 <style>
 .btn-x{
   display:inline-block;
@@ -1417,79 +1417,79 @@ Selamat datang di MADAMTOTO! Semoga keberuntungan selalu berpihak padamu. Ingat,
 <div class='m-design__additional-info' data-controller='rudderstack--link-clicked' data-rudderstack--link-clicked-location-value='related_tags_trending_tags'>
 <h4 class='h h--6 m-design__subtitles'>Trending Tags</h4>
 <nav class='m-design__additional-info-list'>
-<div class="m-search__related-results container__scrollable container__scrollable--wrap container__scrollable--slim"><a href="https://ministries-promadamtoto.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
+<div class="m-search__related-results container__scrollable container__scrollable--wrap container__scrollable--slim"><a href="https://dtim-madamtotolink.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 MADAMTOTO
 </span>
 
 </a>
-<a href="https://ministries-promadamtoto.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://dtim-madamtotolink.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 SLOT GACOR
 </span>
 
 </a>
-<a href="https://ministries-promadamtoto.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://dtim-madamtotolink.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 SLOT RESMI
 </span>
 
 </a>
-<a href="https://ministries-promadamtoto.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://dtim-madamtotolink.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 SLOT ONLINE
 </span>
 
 </a>
-<a href="https://ministries-promadamtoto.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://dtim-madamtotolink.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 SLOT THAILAND
 </span>
 
 </a>
-<a href="https://ministries-promadamtoto.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://dtim-madamtotolink.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 SLOT TERPERCAYA
 </span>
 
 </a>
-<a href="https://ministries-promadamtoto.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://dtim-madamtotolink.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 SITUS SLOT
 </span>
 </a>
-<a href="https://ministries-promadamtoto.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://dtim-madamtotolink.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 SITUS SLOT GACOR
 </span>
 </a>
 
-<a href="https://ministries-promadamtoto.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://dtim-madamtotolink.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 AGEN SLOT
 </span>
 </a>
   
-<a href="https://ministries-promadamtoto.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://dtim-madamtotolink.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 BANDAR SLOT
 </span>
 </a>
   
-<a href="https://ministries-promadamtoto.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://dtim-madamtotolink.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 SLOT GACOR 2026
 </span>
 </a>
   
 
-<a href="https://ministries-promadamtoto.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://dtim-madamtotolink.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 LINK GACOR
 </span>
 </a>
 
-<a href="https://ministries-promadamtoto.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://dtim-madamtotolink.pages.dev/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 BANDAR SLOT GACOR
 </span>
@@ -3096,23 +3096,23 @@ height="0" width="0" style="display:none;visibility:hidden" rel="dns-prefetch"><
     
 
 <div class="MADAMTOTO-fixed-footer">
-  <a href="https://ministries-promadamtoto.pages.dev/" target="_blank" rel="nofollow noopener">
+  <a href="https://dtim-madamtotolink.pages.dev/" target="_blank" rel="nofollow noopener">
     <img src="https://imganekuan.com/uploads/uruc3l14.png" alt="BONUS MADAMTOTO">
     PROMO
   </a>
-  <a href="https://ministries-promadamtoto.pages.dev/" target="_blank" rel="nofollow noopener">
+  <a href="https://dtim-madamtotolink.pages.dev/" target="_blank" rel="nofollow noopener">
     <img src="https://imganekuan.com/uploads/uruc3l14.png" alt="LOGIN MADAMTOTO">
     LOGIN
   </a>
-  <a href="https://ministries-promadamtoto.pages.dev/" target="_blank" rel="nofollow noopener" class="tada">
+  <a href="https://dtim-madamtotolink.pages.dev/" target="_blank" rel="nofollow noopener" class="tada">
     <img src="https://imganekuan.com/uploads/uruc3l14.png" alt="DAFTAR MADAMTOTO">
     DAFTAR
   </a>
-  <a href="https://ministries-promadamtoto.pages.dev/" target="_blank" rel="nofollow noopener">
+  <a href="https://dtim-madamtotolink.pages.dev/" target="_blank" rel="nofollow noopener">
     <img src="https://imganekuan.com/uploads/uruc3l14.png" alt="WHATSAPP MADAMTOTO">
     WHATSAPP
   </a>
-  <a href="https://ministries-promadamtoto.pages.dev/" target="_blank" rel="nofollow noopener">
+  <a href="https://dtim-madamtotolink.pages.dev/" target="_blank" rel="nofollow noopener">
     <img src="https://imganekuan.com/uploads/uruc3l14.png" alt="LIVE CHAT MADAMTOTO">
     LIVE CHAT
   </a>
